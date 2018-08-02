@@ -2,7 +2,7 @@
   ***********************************************************************
   *                                                                     *
   * Generation of Cover Page to be inserted at the top of the           *
-  * fulls score                                                * 
+  * Conductor's edition                                                 * 
   *                                                                     *
   * Construction de la couverture à insérer en en-tête du fichier de    *
   * partition directrice - modifier les proportion si modification de   *
