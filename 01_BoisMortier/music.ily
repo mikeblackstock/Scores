@@ -15,7 +15,7 @@ global = {
 
 flute   = \include "flute.ily"
 violin  = \include "violin.ily"
-guitar  = \include "viola.ily"
+\include "guitar.ily"
 
 
 
