@@ -15,7 +15,7 @@ thisInstrName = \combinedPublicationName            %----------- /common/variabl
 Part = " " %----------- [blank for conductor]
 
 \bookpart { \CoverA } 
-%--------------- First Mov: Allegro
+%{--------------- First Mov: Allegro
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
@@ -23,7 +23,7 @@ thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variabl
 \bookpart { \include "common/conductor-staff.ily" }
 
 
-%{ --------------- Second Mov: Andante
+% --------------- Second Mov: Andante
 thisIdentifier = \thisIdentifierMovII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovII          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovII   %---------------------- /common/variables.ily [set to corresponding movement]
