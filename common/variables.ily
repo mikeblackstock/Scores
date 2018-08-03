@@ -48,9 +48,9 @@ thisFilenameMovIII = "MozartWA-KV525-mov-03"
 thisFilenameMovIV = "MozartWA-KV525-mov-04"
 
 %%----------------Instrument-specific variables
-thisInstrNameI = "Violin I"
-thisInstrNameII = "Violin II"
-thisInstrNameIII = "Viola"
+thisInstrNameI = "Flute"
+thisInstrNameII = "Violin"
+thisInstrNameIII = "Guitar"
 thisInstrNameIV = "Cello"
 
 %------------------set clefs for single-staff parts
