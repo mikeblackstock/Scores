@@ -20,7 +20,7 @@ thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variabl
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 \include "01_BoisMortier/music.ily"                %---------------------- [set to corresponding movement folder]
-\include "common/conductor-staff.ily" }
+\bookpart { \include "common/conductor-staff.ily" }
 
 
 %{ --------------- Second Mov: Andante
