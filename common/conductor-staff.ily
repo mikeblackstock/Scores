@@ -9,24 +9,27 @@
             \set Staff.instrumentName = \thisInstrNameI %----- /common/variables.ily
             \thisClefInstrI     %----------------------------- /common/variables.ily
             \global             %----------------------------- /mov_/music.ily
-            \violinI            %----------------------------- /mov_/music.ily [manually set instrument]
+            \flute           %----------------------------- /mov_/music.ily [manually set instrument]
           }
           \new Staff  {
             \set Staff.instrumentName = \thisInstrNameII
             \thisClefInstrII
-            \global \violinII
+            \global
+            \violin
           }
  
-        \new Staff {
+          \new Staff {
           \set Staff.instrumentName = \thisInstrNameIII
           \thisClefInstrIII
-          \global \viola
+          \global
+          \guitar
         }
-        \new Staff {
-          \set Staff.instrumentName = \thisInstrNameIV
-          \thisClefInstrIV
-          \global \cello
-        }
+
+ %       \new Staff {
+ %         \set Staff.instrumentName = \thisInstrNameIV
+ %         \thisClefInstrIV
+ %         \global \cello
+ %       }
     >>
     \layout{ }
 }
