@@ -10,19 +10,19 @@
 \include "../common/parts-dimension.ily"
 
 %--------Part-specific settings
-thisInstrName = \thisInstrNameIV  %----------- /common/variables.ily
+thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
-thisClef = \thisClefInstrIV       %----------- [manual entry]
+thisClef = \thisClefInstrI       %----------- [manual entry]
 
 %---------------MOVEMENTS 
 %---------------First Mov: Allegro
-\include "../01_allegro/music.ily"
-theseNotes = \cello      %--------------- /mov_/music.ily
+\include "../01_Boismortier/music.ily"
+theseNotes = \flute      %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovI  %--------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
 
-%---------------Second Mov: Andante
+%{---------------Second Mov: Andante
 \include "../02_andante/music.ily"
 theseNotes = \cello       %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovII  %-------------- /common/variables.ily
@@ -42,7 +42,7 @@ theseNotes = \cello        %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovIV  %------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovIV %---- /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
-
+%}
 
 
 

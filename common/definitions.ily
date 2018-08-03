@@ -1,6 +1,6 @@
-%staffUp = \change Staff = "upper"
-%staffDown = \change Staff = "lower"
-%condenseRests = \set Score.skipBars = ##t
+staffUp = \change Staff = "upper"
+staffDown = \change Staff = "lower"
+condenseRests = \set Score.skipBars = ##t
 
 
 % small accidentals above/below turns

@@ -21,7 +21,7 @@ thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variabl
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 thisComposer= \thisComposerMovI
-\include "01_BoisMortier/music.ily"                %---------------------- [set to corresponding movement folder]
+\include \thisNotesMovI                %---------------------- [set to corresponding movement folder]
 \bookpart { 
   \include "common/conductor-staff.ily"
 

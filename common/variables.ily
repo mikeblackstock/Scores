@@ -22,7 +22,7 @@ thisStyle = "Classical"
 thisDates = "2018"
 thisDateOfPublication = "2018"
 thisSource = "Breitkopf & Härtel, 1883"
-thisBigTitle = "Blackstock Chamber Guitar"
+thisBigTitle = "The Chamber Guitar"
 
 combinedPublicationName = "Full Score"
 
@@ -32,7 +32,8 @@ thisIdentifierMovI = "Balet de Village"
 thisTempoMovI = "Gaiment"
 thisLabelMovI = #'MvmtI
 thisComposerMovI= "J.B. Boismortier"
-thisFilenameMovI = "MozartWA-KV525-mov-01"
+thisFilenameMovI = "01-Boismortier"
+thisNotesMovI= "01_Boismortier/music.ily"
 
 thisTempoMovII = "Andante"
 thisTempoMovIII = "Allegretto"

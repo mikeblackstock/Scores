@@ -1,6 +1,6 @@
 %{
   *                                                    *
-  * Generates 3rd movement                                                 *
+  * Generates 1st movement                                                 *
   *                                                                     *
 %}
 
@@ -14,20 +14,18 @@
 % Part-specific settings
 thisInstrName = \markup {
   \concat {
-    \thisTempoMovIII
+    \thisTempoMovI
     \hspace #0.4 \char ##x2014 \hspace #0.4
     \combinedPublicationName
   }
 }
 Part = " "
 
-thisIdentifier = \thisIdentifierMovIII
-thisTempo = \thisTempoMovIII
-thisTocLabel = \label \thisLabelMovIII
-\include "../03_allegretto/music.ily"
+thisIdentifier = \thisIdentifierMovI
+thisTempo = \thisTempoMovI
+%thisTocLabel = \label \thisLabelMovI
+\include "../01_Boismortier/music.ily"
 \bookpart { \include "../common/conductor-staff.ily" }
-
-
 
 
 
