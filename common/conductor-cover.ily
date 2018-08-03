@@ -35,7 +35,7 @@
 %% - Formatting of titles for Cover page and TOC
 %% - all variables in this section are defined in /common/variables.ily
 %coverComposer =  	\markup { \abs-fontsize #24 \thisComposer }
-coverComposer =  	\markup { \abs-fontsize #24 "m. bLACKSTOCK" }
+coverComposer =  	\markup { \abs-fontsize #24 "" }
 coverDates =		\markup { \abs-fontsize #17 \thisDates }
 coverVolutesUp = 	\markup {\epsfile #X #80 #"./common/scroll-one-top.eps"}
 coverTitle = 		\markup { \abs-fontsize #30 \medium \smallCaps \thisWork }
