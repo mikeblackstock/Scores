@@ -15,7 +15,7 @@
 %%------------------Work-specific variables
 thisComposer = "Chamber Guitarists"
 thisWork = "The Chamber Guitar"
-thisOrchester = "for flute, violin, and guitar"
+thisOrchester = "flute, violin, and guitar"
 thisOpus = "Vol. 1"
 thisTonality = ""
 thisStyle = "Classical"
