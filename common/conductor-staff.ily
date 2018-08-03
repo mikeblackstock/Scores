@@ -32,9 +32,7 @@
  %       }
     >>
     \layout{ }
-    \header {
-      composer = "J.B. Boismortier"
-    }    
+ 
 }
 
 
