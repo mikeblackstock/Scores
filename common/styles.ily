@@ -20,7 +20,7 @@
                                  \thisIdentifier         %-------------------- to be defined ahead of file insertion
                                  \hspace #2 \char ##x2014
   } } }
-%  composer = \markup \center-column {\abs-fontsize #12 \thisComposer}
+  composer = \markup \center-column {\abs-fontsize #12 \thisComposer}
   opus = \markup \center-column {\abs-fontsize #12 \lower #0 \thisOpus}
   piece = \markup { \abs-fontsize #14 \raise #1 { \hspace #20
                                              \thisTempo  %-------------------- to be defined ahead of file insertion
