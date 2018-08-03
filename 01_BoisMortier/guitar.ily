@@ -332,10 +332,10 @@ guitarLower = \relative c {
 
 	
 }
-%guitarStaff = \simultaneous {
-%	\context Voice="guitarUpper" \guitarUpper
-%	\context Voice="guitarLower" \guitarLower
-%}
+guitar = \simultaneous {
+	\context Voice="guitarUpper" \guitarUpper
+	\context Voice="guitarLower" \guitarLower
+}
 
 
 
