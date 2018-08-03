@@ -2,9 +2,6 @@ guitarUpper= \relative c{
 	\voiceOne
 	\clef "G_8"
 	\time 2/4
-	\override Staff.NoteCollision  #'merge-differently-dotted = ##t
-	\override Staff.NoteCollision  #'merge-differently-headed = ##t
-
 	\key	c \major
 	\partial 4
     \oneVoice r4  \voiceOne |
