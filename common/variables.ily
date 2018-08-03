@@ -56,7 +56,7 @@ thisInstrNameIV = "Cello"
 %------------------set clefs for single-staff parts
 thisClefInstrI = \clef treble
 thisClefInstrII = \clef treble
-thisClefInstrIII = \clef alto
+thisClefInstrIII = \clef "G_8"
 thisClefInstrIV = \clef bass
 
 
