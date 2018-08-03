@@ -13,7 +13,7 @@
 \include "version.ily"
 
 %%------------------Work-specific variables
-thisComposer = "M. Blackstock"
+thisComposer = "Chamber Guitarists"
 thisWork = "The Chamber Guitar"
 thisOrchester = "for flute, violin, and guitar"
 thisOpus = "Vol. 1"
