@@ -15,12 +15,17 @@ thisInstrName = \combinedPublicationName            %----------- /common/variabl
 Part = " " %----------- [blank for conductor]
 
 \bookpart { \CoverA } 
-%--------------- First Mov: Allegro
+%--------------- First Piece: Boismortier
+thisWork = \thisWorkMovI
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
+thisComposer= \thisComposerMovI
 \include "01_BoisMortier/music.ily"                %---------------------- [set to corresponding movement folder]
-\bookpart { \include "common/conductor-staff.ily" }
+\bookpart { 
+  \include "common/conductor-staff.ily"
+
+}
 
 
 %{ --------------- Second Mov: Andante

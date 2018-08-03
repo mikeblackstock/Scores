@@ -46,7 +46,8 @@ coverDateCollection = 	\markup { \abs-fontsize #20 \medium \thisDateOfPublicatio
 coverVolutesDown = 	\markup {\epsfile #X #80 #"./common/scroll-one-btm.eps"}
 coverGenre = 		\markup { \abs-fontsize #28 \combinedPublicationName }
 
-TocComposer = 	\markup { \abs-fontsize #14 \thisComposer }
+%TocComposer = 	\markup { \abs-fontsize #14 \thisComposer }
+TocComposer = 	\markup { \abs-fontsize #14 "OMET" }
 TocTitle = 	\markup { \abs-fontsize #18 \medium \smallCaps \thisWork }
 TocTonality = 	\markup { \abs-fontsize #14 \medium \thisTonality }
 TocHeading = 	\markup { \abs-fontsize #22 "Table of Contents" }

@@ -27,22 +27,28 @@ thisBigTitle = "Blackstock Chamber Guitar"
 combinedPublicationName = "Full Score"
 
 %%----------------Movement-specific variables
-thisTempoMovI = "Allegro"
+thisWorkMovI = "The Chamber Guitar"
+thisIdentifierMovI = "Balet de Village"
+thisTempoMovI = "Gaiment"
+thisLabelMovI = #'MvmtI
+thisComposerMovI= "J.B. Boismortier"
+thisFilenameMovI = "MozartWA-KV525-mov-01"
+
 thisTempoMovII = "Andante"
 thisTempoMovIII = "Allegretto"
 thisTempoMovIV = "Allegro"
 
-thisIdentifierMovI = "I. Gaiment"
+
 thisIdentifierMovII = "II. Romanze"
 thisIdentifierMovIII = "III. Menuetto"
 thisIdentifierMovIV = "IV. Rondo"
 
-thisLabelMovI = #'MvmtI
+
 thisLabelMovII = #'MvmtII
 thisLabelMovIII = #'MvmtIII
 thisLabelMovIV = #'MvmtIV
 
-thisFilenameMovI = "MozartWA-KV525-mov-01"
+
 thisFilenameMovII = "MozartWA-KV525-mov-02"
 thisFilenameMovIII = "MozartWA-KV525-mov-03"
 thisFilenameMovIV = "MozartWA-KV525-mov-04"
