@@ -13,50 +13,75 @@
 \include "version.ily"
 
 %%------------------Work-specific variables
-thisComposer = "Johann Sebastian Bach"
-thisWork = "Keyboard Concerto Nº 4"
-thisOrchester = "for keyboard, strings, and continuo"
-thisOpus = "BWV 1055"
-thisTonality = "in A major"
-thisStyle = "Baroque"
-thisDates = "1685-1750"
-thisDateOfPublication = "1854"
-thisSource = "Bach-Gesellschaft Ausgabe; Breitkopf and Härtel, 1869"
-thisBigTitle = "Bach - Keyboard Concerto Nº 4 in A major"
+thisComposer = "M. Blackstock"
+thisWork = "The Chamber Guitar"
+thisOrchester = "for string quartet/string orchestra"
+thisOpus = "Vol. 1"
+thisTonality = ""
+thisStyle = "Classical"
+thisDates = "2018"
+thisDateOfPublication = "2018"
+thisSource = "Breitkopf & Härtel, 1883"
+thisBigTitle = "Blackstock Chamber Guitar"
 
-combinedPublicationName = "Conductor's Score"
+combinedPublicationName = "Full Score"
 
 %%----------------Movement-specific variables
 thisTempoMovI = "Allegro"
-thisTempoMovII = "Larghetto"
-thisTempoMovIII = "Allegro ma non tanto"
+thisTempoMovII = "Andante"
+thisTempoMovIII = "Allegretto"
+thisTempoMovIV = "Allegro"
 
-thisIdentifierMovI = "I"
-thisIdentifierMovII = "II"
-thisIdentifierMovIII = "III"
+thisIdentifierMovI = "I. Allegro"
+thisIdentifierMovII = "II. Romanze"
+thisIdentifierMovIII = "III. Menuetto"
+thisIdentifierMovIV = "IV. Rondo"
 
 thisLabelMovI = #'MvmtI
 thisLabelMovII = #'MvmtII
 thisLabelMovIII = #'MvmtIII
+thisLabelMovIV = #'MvmtIV
 
-thisFilenameMovI = "bwv1055-1-allegro"
-thisFilenameMovII = "bwv1055-2-larghetto"
-thisFilenameMovIII = "bwv1055-3-allegro-manontanto"
+thisFilenameMovI = "MozartWA-KV525-mov-01"
+thisFilenameMovII = "MozartWA-KV525-mov-02"
+thisFilenameMovIII = "MozartWA-KV525-mov-03"
+thisFilenameMovIV = "MozartWA-KV525-mov-04"
 
 %%----------------Instrument-specific variables
 thisInstrNameI = "Violin I"
 thisInstrNameII = "Violin II"
 thisInstrNameIII = "Viola"
-thisInstrNameIV = "Continuo"
-thisInstrNameV = "Keyboard"
+thisInstrNameIV = "Cello"
 
-   %------------------set clefs for single-staff parts
+%------------------set clefs for single-staff parts
 thisClefInstrI = \clef treble
 thisClefInstrII = \clef treble
 thisClefInstrIII = \clef alto
 thisClefInstrIV = \clef bass
-thisClefInstrVu = \clef treble
-thisClefInstrVd = \clef bass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

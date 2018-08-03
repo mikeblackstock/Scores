@@ -40,7 +40,7 @@ coverVolutesUp = 	\markup {\epsfile #X #80 #"./common/scroll-one-top.eps"}
 coverTitle = 		\markup { \abs-fontsize #30 \medium \smallCaps \thisWork }
 coverTonality = 	\markup { \abs-fontsize #22 \medium \thisTonality }
 coverOpus = 		\markup { \abs-fontsize #22 \medium \thisOpus }
-coverSubtitle = 	\markup { \abs-fontsize #16 \italic \medium \thisOrchester }
+coverSubtitle = 	\markup { \abs-fontsize #16 \medium \thisOrchester }
 coverDateCollection = 	\markup { \abs-fontsize #20 \medium \thisDateOfPublication }
 coverVolutesDown = 	\markup {\epsfile #X #80 #"./common/scroll-one-btm.eps"}
 coverGenre = 		\markup { \abs-fontsize #28 \combinedPublicationName }
@@ -64,7 +64,7 @@ CoverA = \markup {
   \override #'(line-width . 145)
   \column {
     \fontsize #3 \bold \override #'(box-padding . 0.0)  \override #'(thickness . 4.0)
-    \box
+%   \box
     \column {
       \fill-line { \lower #16 \coverComposer }
       \fill-line { \lower #8 \coverDates }
@@ -87,27 +87,29 @@ CoverA = \markup {
 %%% Table of Contents Text Layout
 %%  all variables in this section are defined above (this file) except where noted
 
-PageToc = \markup {
-  \override #'(line-width . 145)
-    \fontsize #3
-    \column {
-      \fill-line {\lower #27  \TocComposer}
-      \fill-line {\lower #7 \TocTitle}
-      \fill-line {\lower #6 \TocTonality}
-      \fill-line {\lower #22 \TocHeading}
-      \fill-line {\lower #6 \override #'(thickness . 3) \draw-line #'(70 . 0)}
-      \fill-line { \null }
-      %---------------------- TOC lines reference variables from /common/variables.ily
-      %---------------------- SETUP: (a) Copy and adjust movement-specific variables, one entry per movement
-      %----------------------        (b) May need to adjust horizontal spacing values
-      \fill-line {\override #'(line-width . 70) \lower #10 \toc-line \thisLabelMovI \concat { \hspace #3.2 \thisIdentifierMovI " - " \thisTempoMovI } }
-      \fill-line {\override #'(line-width . 70) \lower #6 \toc-line \thisLabelMovII \concat { \hspace #1.5 \thisIdentifierMovII " - " \thisTempoMovII } }
-      \fill-line {\override #'(line-width . 70) \lower #6 \toc-line \thisLabelMovIII \concat { \hspace #0 \thisIdentifierMovIII " - " \thisTempoMovIII } }
-      %---------------------------------------------- end TOC entry lines
-      \fill-line {\lower #8 \override #'(thickness . 3) \draw-line #'(70 . 0)}
-      \fill-line {\lower #20 \concat { "Source: " \TocSource }}
-      \fill-line {\lower #25 \coverGenre}
-      \combine \null \vspace #4.4
-  }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
