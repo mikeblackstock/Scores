@@ -16,9 +16,9 @@ Part = " " %----------- [blank for conductor]
 
 \bookpart { \CoverA } 
 %--------------- First Mov: Allegro
-%thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
-%thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
-%thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
+thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
+thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
+thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 \include "01_BoisMortier/music.ily"                %---------------------- [set to corresponding movement folder]
 \bookpart { \include "common/conductor-staff.ily" }
 
