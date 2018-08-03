@@ -10,7 +10,7 @@
 
 global = {
  \key c \major
- \time 4/4 
+ \time 2/4 
 }
 
 flute   = \include "flute.ily"
