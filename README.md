@@ -6,7 +6,7 @@
 combinations of instruments that include at least one guitar part.
 </p>
 <p>
-The scores are engraved  with <i><a href="https://www.lilypond.org" target="_blank">Lilypond</a></i>,
+The scores are engraved  with <i><a href="http://lilypond.org" target="_blank" >Lilypond</a></i>,
 an award-winning open source music engraver.
 </p>
 <p>
