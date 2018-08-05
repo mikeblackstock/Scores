@@ -6,8 +6,8 @@
 combinations of instruments that include at least one guitar part.
 </p>
 <p>
-The scores are engraved  with <i><a href="https://www.lilypond.org">Lilypond</a></i>,
-and the source code for each score is available on the site.
+The scores are engraved  with <i><a href="https://www.lilypond.org" target="_blank">Lilypond</a></i>,
+an award-winning open source music engraver.
 </p>
 <p>
 If you have a score to contribute for inclusion in the book, feel free to fork the 
