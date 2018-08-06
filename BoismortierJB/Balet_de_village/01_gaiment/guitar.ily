@@ -3,6 +3,7 @@ guitarUpper= \relative c{
 	\clef "G_8"
 	\time 2/4
 	\key	c \major
+
 	\partial 4
     \oneVoice r4  \voiceOne |
 	<c' g >4\f <c g > |
@@ -181,6 +182,7 @@ guitarUpper= \relative c{
 	<c g e >2. |
 
 }
+
 guitarLower = \relative c {
 	\voiceTwo
 
@@ -329,10 +331,12 @@ guitarLower = \relative c {
 
 	
 }
+
 guitar = \simultaneous {
 	\context Voice="guitarUpper" \guitarUpper
 	\context Voice="guitarLower" \guitarLower
 }
+
 
 
 

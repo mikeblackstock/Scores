@@ -32,8 +32,8 @@ thisIdentifierMovI = "Balet de Village"
 thisTempoMovI = "Gaiment"
 thisLabelMovI = #'MvmtI
 thisComposerMovI= "J.B. Boismortier"
-thisFilenameMovI = "01-Boismortier"
-thisNotesMovI= "BoismortierJB/Balet_de_village/01_gaiment/music.ily"
+thisFilenameMovI = "Boismortier_1"
+thisNotesMovI= "01_gaiment/music.ily"
 
 thisTempoMovII = "Andante"
 thisTempoMovIII = "Allegretto"
