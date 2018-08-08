@@ -1,7 +1,7 @@
 %{
   ***********************************************************************
   *                                                                     *
-  * Notes for Mov1                                                      *
+  * Notes for Mov2                                                      *
   *                                                                     *
   * Do Not Compile                                                      *
   *                                                                     *
@@ -9,8 +9,8 @@
 %}
 
 global = {
- \key c \major
- \time 2/4 
+ \key g \major
+ \time 4/4 
 }
 
 flute   = \include "flute.ily"

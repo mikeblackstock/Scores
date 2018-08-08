@@ -9,8 +9,8 @@
 %}
 
 global = {
- \key c \major
- \time 2/4 
+ \key g \major
+ \time 3/2
 }
 
 flute   = \include "flute.ily"
