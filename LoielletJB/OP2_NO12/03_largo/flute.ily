@@ -2,9 +2,9 @@
 \relative c' {
  \key g \major
  \time 3/2
-	b''8 (\p a  _\markup  { \italic "molto espress." } g  fis ) e ( dis  e  b ) e ( g  fis  e ) |
-	fis (\< e  fis  e ) fis ( e  fis  g ) fis ( a  g  fis )\! |
-	g2 \> b (\p\! g ) | 
+	b''8 ( a   g  fis ) e ( dis  e  b ) e ( g  fis  e ) |
+	fis ( e  fis  e ) fis ( e  fis  g ) fis ( a  g  fis ) |
+	g2  b ( g ) | 
 	a8 ( g  a  b ) a (\< g  a  b ) a ( c  b  a )\! |
 	b (\f a  b  fis ) g (\> d  e  c ) d ( b  c  a )\! |
 	b (\< a  b  c ) b ( d  g \! d )\> b ( d  c  b )\! |  
