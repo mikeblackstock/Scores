@@ -5,10 +5,10 @@
 	b''8 ( a   g  fis ) e ( dis  e  b ) e ( g  fis  e ) |
 	fis ( e  fis  e ) fis ( e  fis  g ) fis ( a  g  fis ) |
 	g2  b ( g ) | 
-	a8 ( g  a  b ) a (\< g  a  b ) a ( c  b  a )\! |
-	b (\f a  b  fis ) g (\> d  e  c ) d ( b  c  a )\! |
-	b (\< a  b  c ) b ( d  g \! d )\> b ( d  c  b )\! |  
-    a8 (\p g  a  b ) _\markup  { \italic "molto  dim." } a ( g  a  b ) a ( g  a  b ) |
+	a8 ( g  a  b ) a (g  a  b ) a ( c  b  a ) |
+	b ( a  b  fis ) g ( d  e  c ) d ( b  c  a ) |
+	b ( a  b  c ) b ( d  g  d ) b ( d  c  b ) |  
+    a8 ( g  a  b )  a ( g  a  b ) a ( g  a  b ) |
 	c (\pp ^\markup  { \italic "dolciss." } b \< c  d ) c ( e \! a  e ) c (\> e  d  c )\! |
 	b ( a  b  c ) b (\< a  b  c ) d ( c  d  e )\! | \barNumberCheck #10
 %10
