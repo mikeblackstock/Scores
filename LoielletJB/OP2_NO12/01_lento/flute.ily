@@ -1,7 +1,4 @@
-\version "2.19"
 \relative c' {
-\key g \major
-\time 6/8 
  \repeat volta 2 {
 	g''4  g,8 a (b) c |
 	b (g) e' d (e) c |

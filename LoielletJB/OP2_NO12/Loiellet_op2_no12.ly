@@ -17,6 +17,7 @@ Part = " " %----------- [blank for conductor]
 
 %\bookpart { \CoverA } 
 %--------------- First Piece: Boismortier
+
 thisWork = \thisWork
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]

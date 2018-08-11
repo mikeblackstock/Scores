@@ -1,7 +1,4 @@
-\version "2.19"
 \relative c'{
- \key g \major
- \time 3/8 
   \repeat volta 2 { 
     d'8. \trill c32  d  e8  |
 	c4 \trill b8  |
