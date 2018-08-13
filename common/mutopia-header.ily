@@ -23,7 +23,8 @@
  footer = "2018/08/01"
  
 % copyright =  \markup { \override #'(baseline-skip . 0 ) \right-column { \sans \bold \with-url #"http://www.MutopiaProject.org" { \abs-fontsize #9  "Mutopia " \concat { \abs-fontsize #12 \with-color #white \char ##x01C0 \abs-fontsize #9 "Project " } } } \override #'(baseline-skip . 0 ) \center-column { \abs-fontsize #11.9 \with-color #grey \bold { \char ##x01C0 \char ##x01C0 } } \override #'(baseline-skip . 0 ) \column { \abs-fontsize #8 \sans \concat { " Typeset using " \with-url #"http://www.lilypond.org" "LilyPond" " by " \maintainer " " \char ##x2014 " " \footer } \concat { \concat { \abs-fontsize #8 \sans{ " Placed in the " \with-url #"http://creativecommons.org/licenses/publicdomain" "public domain" " by the typesetter " \char ##x2014 " free to distribute, modify, and perform" } } \abs-fontsize #13 \with-color #white \char ##x01C0 } } }
- copyright = \markup {
+%{
+copyright = \markup {
  \override #'(box-padding . 1.0) \override #'(baseline-skip . 2.7) 
  \box \center-align 
  { \small \line  { Sheet music from \with-url #"http://www.MutopiaProject.org" 
@@ -35,8 +36,11 @@
    } 
    \line { \teeny \line { Licensed under the Creative Commons Attribution 3.0 (Unported) License, for details see: 
    \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by/3.0 } } } }
- 
- 
+ %}
+ copyright = \markup {
+ \line { \teeny \line { Licensed under the Creative Commons Attribution 3.0 (Unported) License, for details see:
+ \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by/3.0 } }
+ }
  
  
  tagline = #f 
