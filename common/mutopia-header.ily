@@ -38,7 +38,7 @@ copyright = \markup {
    \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by/3.0 } } } }
  %}
  copyright = \markup {
- \line { \teeny \line { Licensed under the Creative Commons Attribution 3.0 (Unported) License, for details see:
+ \line { \small \line { Licensed under the Creative Commons Attribution 3.0 (Unported) License, for details see:
  \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by/3.0 } }
  }
  
