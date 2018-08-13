@@ -38,10 +38,10 @@ copyright = \markup {
    \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by/3.0 } } } }
  %}
  copyright = \markup {
-  \line { 
+  \fill-line { 
     \small  { Licensed under the Creative Commons Attribution 4.0 ) License, for details see: \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by-sa/4.0/ }
   }
-  \line { 
+  \fill-line { 
     \small  { Licensed under the Creative Commons Attribution 4.0 ) License, for details see: \hspace #-0.5 \with-url #"http://creativecommons.org/licenses/by/3.0" http://creativecommons.org/licenses/by-sa/4.0/ }
   }
 }
