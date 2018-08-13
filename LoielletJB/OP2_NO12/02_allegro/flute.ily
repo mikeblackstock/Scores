@@ -10,7 +10,7 @@
     fis8.  g32  a  g16  fis  e  d  cis8  a  r16  d  cis  d  |
     e  d  \tuplet 3/2 {cis  [d  e] } d  fis  e  fis  g  fis  \tuplet 3/2 {e  [fis  g] } fis  a  g  a  |
     \tuplet 3/2 {b16  [(a  g)]} \tuplet 3/2  {g  (a  b) } \hideTuplets  \tuplet 3/2 {a  [(g  fis)] } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  [(fis  e)] } \tuplet 3/2 {e  (fis  g) } \tuplet 3/2 {fis [( g  a )] } \tuplet 3/2 {g  (a  fis) } |
-	\tuplet 3/2 {e  (fis  g) } \tuplet 3/2 {fis  (g  e) } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  (a  fis) } e  a,  a'8 ~  a16  d,  g8 ~  | 
+	\tuplet 3/2 {e  [(fis  g)] } \tuplet 3/2 {fis  (g  e) } \tuplet 3/2 {fis  [(g  a)] } \tuplet 3/2 {g  (a  fis) } e  a,  a'8 ~  a16  d,  g8 ~  | 
     \barNumberCheck #10 
 %10
     \showTuplets g16  e  fis  g  e8. \trill  d16  d4. \break
@@ -26,7 +26,7 @@
 	dis  b  e  fis  fis8. \trill  e16  e8.  fis32  g  fis16  e  d  c  |
     b8.  c32  d  c16 ( b ) a ( g ) fis8  d  r16  g  fis  g  |
 	a  g  \tuplet 3/2 {fis  [g  a] } g  b  a  b  c  b  \tuplet 3/2 {a  [b  c] } b  d  c  d  |
-    \tuplet 3/2 {e16 ( d  c )} \tuplet 3/2 {c ( d  e )} \hideTuplets \tuplet 3/2 {d ( c  b )} \tuplet 3/2 {b ( c  d )} \tuplet 3/2 {c  (b  a) } \tuplet 3/2 {a  (b  c) } \tuplet 3/2 {b  (c  d) } \tuplet 3/2 {c  (d  b) } |
+    \tuplet 3/2 {e16 [( d  c )]} \tuplet 3/2 {c ( d  e )} \hideTuplets \tuplet 3/2 {d [( c  b )]} \tuplet 3/2 {b ( c  d )} \tuplet 3/2 {c  [(b  a)] } \tuplet 3/2 {a  (b  c) } \tuplet 3/2 {b  [(c  d)] } \tuplet 3/2 {c  (d  b) } |
 	\tuplet 3/2 {a  (b  c) } \tuplet 3/2 {b  (c  a) } \tuplet 3/2 {b  (c  d) } \tuplet 3/2 {c  (d  b) } a  d,  d'8 ~  d16  g,  c8 ~  |
     \barNumberCheck #20
     %20
