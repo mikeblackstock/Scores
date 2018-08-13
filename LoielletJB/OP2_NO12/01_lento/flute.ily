@@ -23,7 +23,7 @@
   }
 
   \repeat volta 2 {
-    \mark \default a'8  ( fis ) g  a16 ( g  a8 )  b  | \barNumberCheck #20
+    a'8  ( fis ) g  a16 ( g  a8 )  b  | \barNumberCheck #20
 %20
     a  d,  r  r4  r8  |
 	d ( b ) c  d16 ( c ) d8  e  |
