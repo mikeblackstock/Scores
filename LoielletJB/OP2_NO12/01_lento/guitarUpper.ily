@@ -22,7 +22,7 @@
 	<b d, > <a e cis > <a g cis, > <a fis > <fis d > <d a fis > |
   }
 \repeat volta 2 {
-    \mark \default r16  a  <fis' d > a,  <g' e > a,  r  a  <a' d, > a,  b'8  | \barNumberCheck #20
+    r16  a  <fis' d > a,  <g' e > a,  r  a  <a' d, > a,  b'8  | \barNumberCheck #20
 %20
     <a fis > fis  g  a16  g  a8  <fis d > |
 	r16  b,  <g' d > b,  <a' d, > c,  r  b  <g' d > b,  <g' e > c,  |
