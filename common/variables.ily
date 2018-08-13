@@ -25,7 +25,7 @@ thisDateOfPublication = "2018"
 thisSource = "Breitkopf & Härtel, 1883"
 thisBigTitle = "The Chamber Guitar"
 
-combinedPublicationName = "Full Score"
+combinedPublicationName = ""
 
 %%----------------Movement-specific variables
 thisWorkMovI = "The Chamber Guitar"
