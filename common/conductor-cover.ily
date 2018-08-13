@@ -82,7 +82,6 @@ CoverA = \markup {
       \combine \null \vspace #1
       \fill-line { \lower #19 \coverVolutesDown }
       \fill-line { \lower #14 \coverGenre }
-      \fill-line { \lower #14 \coverLicense }
       \combine \null \vspace #3.7
     }
   }
