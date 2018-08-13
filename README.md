@@ -9,7 +9,10 @@ that contain at least one guitar part. It is an eternal work-in-progress.
 The scores were engraved  with <i>Lilypond</i>, an award-winning open source music engraver,
 and the 'source files' are included  in this repository, allowing
 you to reproduce the scores and make changes and modifications to them under the terms of the Creative
-Commons Sharealike Public License.
+Commons Public License.
+</p>
+
+
 
 
 
