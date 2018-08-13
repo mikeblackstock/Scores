@@ -15,6 +15,7 @@ thisInstrName = \combinedPublicationName            %----------- /common/variabl
 Part = " " %----------- [blank for conductor]
 
 \bookpart { \CoverA } 
+
 %--------------- First Piece: Boismortier
 thisWork = \thisWorkMovI
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -26,6 +27,7 @@ thisComposer= \thisComposerMovI
   \include "common/conductor-staff.ily"
 
 }
+
 
 
 
