@@ -16,7 +16,7 @@
 thisComposer = "Chamber Guitarists"
 thisWork = "The Chamber Guitar"
 thisOrchester = "flute, violin, and guitar"
-thisOpus = ""
+thisOpus = "(1689 - 1755)"
 thisVolume = "Vol. 1"
 thisTonality = ""
 thisStyle = "Classical"
