@@ -27,7 +27,7 @@ thisComposer= \thisComposer
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-
+%{
 thisWork = \thisWork
 thisIdentifier = \thisIdentifierMovII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovII          %---------------------- /common/variables.ily [set to corresponding movement]
@@ -57,6 +57,6 @@ thisComposer= \thisComposer
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-
+%}
 
 
