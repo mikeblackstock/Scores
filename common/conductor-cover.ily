@@ -108,8 +108,8 @@ PageToc = \markup {
       \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII \concat { \hspace #1.5 \thisWorkII " - " \thisComposer_WorkII } }
       \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovI } }
  \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII_II \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovII } }
- \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII_III \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovIII } }
-  \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII_IV \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovIV } }
+% \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII_III \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovIII } }
+%  \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'WorkII_IV \concat { \hspace #1.5   " - " \thisTempo_WorkII_MovIV } }
 %      \fill-line {\override #'(line-width . 70) \lower #6 \toc-line #'secondScore \concat { \hspace #1.5 "Lento " - " "" } }
 
 %      \fill-line {\override #'(line-width . 70) \lower #6 \toc-line \thisLabelMovIII \concat { \hspace #0 \thisIdentifierMovIII " - " \thisTempoMovIII } }
