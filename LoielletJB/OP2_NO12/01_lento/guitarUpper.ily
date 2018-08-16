@@ -26,7 +26,7 @@
 %20
     <a fis > fis  g  a16  g  a8  <fis d > |
 	r16  b,  <g' d > b,  <a' d, > c,  r  b  <g' d > b,  <g' e >8   |
-	r16  b,  <g' d > b,  <g' d b >8 <f c >4 <d g, >8 |
+	r16  b,  <g' d > b,  <g' d b >8 r16 a, c a  <d g, >8 |
 	r16  g,  e'  g,  <a' cis, >8 <g d >4 <e a, >8 |
 	r16  a,  fis'  a,  <b dis, >8 <a e >4 <fis' b, >8 |
 	r16  b,  g'  b,  <e b >8 r16  f,  a  c  r  dis  |
