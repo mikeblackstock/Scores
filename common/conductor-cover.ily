@@ -116,7 +116,7 @@ PageToc = \markup {
       %---------------------------------------------- end TOC entry lines
       \fill-line {\lower #8 \override #'(thickness . 3) \draw-line #'(70 . 0)}
 %      \fill-line {\lower #20 \concat { "Source: " \TocSource }}
-      \fill-line {\lower #25 \coverGenre}
+%      \fill-line {\lower #25 \coverGenre}
       \combine \null \vspace #4.4
   }
 }
