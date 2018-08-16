@@ -4,7 +4,7 @@
   *                                                                     *
 %}
 #(ly:set-option 'relative-includes #t)
-#(set-global-staff-size 16) 
+#(set-global-staff-size 18) 
 \version "2.19"
 \paper{
   print-all-headers = ##t
@@ -34,8 +34,9 @@ thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variabl
 \label #'WorkI
 thisComposer= \thisComposer_WorkI % \thisComposerMovI
 \include "BoismortierJB/Balet_de_village/01_gaiment/music.ily"               %---------------------- [set to corresponding movement folder]
+\bookpart {
 \include "common/conductor-staff.ily"
-
+}
 
 %--------------- 2nd Work: Loiellet
 thisWork = "Trio Sonata" %\thisWorkMovI
