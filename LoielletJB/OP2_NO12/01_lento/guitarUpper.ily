@@ -39,8 +39,8 @@
 	r16  g,  g'  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
 	g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  fis'  c  |
 	g'8  g16  d  g  d  fis,  d'  g,  d'  e,  d'  |
-	fis8  d16  g,  e'  g,  d'  g,  b  g  c  g  |
-	<b g >8 g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
+	d8  d16  g,  e'  g,  d'  g,  b  g  c  g  |
+	b8 g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
 	<g' b, > g,  <g' b, > g,  <d' b > d,  <c' a > d,  <d' b > d,  <b' g > d,  |
 	a'8  a'16  d,  b'  d,  a'  d,  b'  d,  g  d  |
 	fis16  d  fis  d  fis  d  <g c, > g,  g'  g,  c  a  |
