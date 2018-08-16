@@ -38,7 +38,7 @@
     <e g, >4 <g b, >8 <a c, > <fis dis b >4 |
 	r16  g,  g'  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
 	g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  fis'  c  |
-	g'8  g16  d  g  d  a'  d,  g  d  g  d  |
+	g'8  g16  d  g  d  fis,  d'  g  d  g  d  |
 	fis8  d16  g,  e'  g,  d'  g,  b  g  c  g  |
 	<b g >8 g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
 	<g' b, > g,  <g' b, > g,  <d' b > d,  <c' a > d,  <d' b > d,  <b' g > d,  |
