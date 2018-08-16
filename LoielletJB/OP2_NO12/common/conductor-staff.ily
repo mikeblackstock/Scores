@@ -33,7 +33,7 @@
     >>
     \layout{ }
     \header {
-      piece=   piece = \markup{\hspace #15.0 \raise #-5.0 \bold \large \thisTempo }
+      piece= \markup{\hspace #15.0 \raise #-5.0 \bold \large \thisTempo }
     }
 }
 
