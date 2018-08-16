@@ -20,7 +20,7 @@ roundF = \markup {
     \dynamic f \bold { \italic ) } } }
 
 % markings
-allegro = \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
+lento = \markup{\hspace #-3.0 \raise #2.0 \bold \large "Lento affettuoso" }
 andante = \markup{\hspace #-3.0 \raise #2.0 \bold \large Andante }
 allegretto = \markup {\hspace #-3.0 \raise #2.0 \bold \large Allegretto }
 trio= \markup {\hspace #-3.0 \raise #2.0 \bold \large Trio }
