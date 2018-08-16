@@ -1,6 +1,6 @@
 \relative c' {
  \repeat volta 2 {
-	g''4  g,8 a (b) c |
+	g''4 g,8 a (b) c |
 	b (g) e' d (e) c |
 	b (g) c b a4 |
 	g8 (d') g fis4. |

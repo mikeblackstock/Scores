@@ -6,7 +6,7 @@
 #(ly:set-option 'relative-includes #t)
 \version "2.19"
 %\include "common/version.ily"
-\include "common/mutopia-header.ily"
+%\include "common/mutopia-header.ily"
 \include "common/variables.ily"
 \include "common/definitions.ily"
 \include "common/conductor-dimension.ily"
@@ -27,7 +27,7 @@ thisComposer= \thisComposer
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-%{
+
 thisWork = \thisWork
 thisIdentifier = \thisIdentifierMovII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovII          %---------------------- /common/variables.ily [set to corresponding movement]
@@ -37,7 +37,7 @@ thisComposer= \thisComposer
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-
+%{
 thisWork = \thisWork
 thisIdentifier = \thisIdentifierMovIII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovIII          %---------------------- /common/variables.ily [set to corresponding movement]
@@ -58,5 +58,4 @@ thisComposer= \thisComposer
   \include "common/conductor-staff.ily"
 }
 %}
-
 

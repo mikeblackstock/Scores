@@ -23,4 +23,7 @@
           }
         >>
     \layout{ }
+    \header {
+      piece= \thisTempo
+    }
 }

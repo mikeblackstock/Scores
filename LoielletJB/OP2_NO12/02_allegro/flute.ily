@@ -1,7 +1,7 @@
 \relative c' {
   \partial 8
   \repeat volta 2 {
-    r16 g''
+    r16  g''
 	g16  d  b  c  d8  e  d  g, ~  g16  fis  g  a  |
 	b (g) d' (b) e (d) g (a)  fis8  d  r16  a' b  c  |
     \tuplet 3/2 {b16  [a  g]}  \tuplet 3/2 {a  g  fis } g  d  e  f \tuplet 3/2 {e  [d  c]} \tuplet 3/2 { d  c  b } \tuplet 3/2 {c  [b  a] } \tuplet 3/2 { b  a  g } |

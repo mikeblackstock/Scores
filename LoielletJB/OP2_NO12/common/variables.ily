@@ -38,9 +38,9 @@ thisNotesMovII= "02_allegro/music.ily"
 thisNotesMovIII= "03_largo/music.ily"
 thisNotesMovIV= "04_allegro/music.ily"
 
-thisTempoMovI = "Lento"
-thisTempoMovII = "Allegro"
-thisTempoMovIII = "Largo"
+thisTempoMovI = "Lento affettuoso"
+thisTempoMovII = "Allegro" 
+thisTempoMovIII = "Largo sostenuto"
 thisTempoMovIV = "Allegro"
 
 

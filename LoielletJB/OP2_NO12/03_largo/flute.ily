@@ -1,5 +1,5 @@
 \relative c' {
-	b''8 ( a   g  fis ) e ( dis  e  b ) e ( g  fis  e ) |
+	b''8  ( a   g  fis ) e ( dis  e  b ) e ( g  fis  e ) |
 	fis ( e  fis  e ) fis ( e  fis  g ) fis ( a  g  fis ) |
 	g2  b ( g ) | 
 	a8 ( g  a  b ) a (g  a  b ) a ( c  b  a ) |
@@ -28,7 +28,7 @@
 	fis1 r2  |
 	a'8 ( g a  b ) a ( g  a  b ) a  g  a  fis  |
 	g4 ( a ) fis2.  e4  |
-	e   (fis)  dis2. e4 ) |
+	e   (fis)  dis2. e4  |
 	e1. \bar "|." |
 }
 

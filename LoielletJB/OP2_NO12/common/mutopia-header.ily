@@ -13,12 +13,12 @@
 
   maintainer = "Mike Blackstock"
   maintainerEmail = "mike (at) omet (dot) ca"
-  license = "Public Domain"
+  license = "Creative Commons Attribution Share-Alike"
 
-  mutopiatitle = "Eine Kleine Nachtmusik"
-  mutopiaopus = "KV525"
-  mutopiacomposer = "MozartWA"
-  mutopiainstrument = "Orchestra: Violins, Viola, Cello"
+  mutopiatitle = "Trio Sanata"
+  mutopiaopus = "Op. 2 No. 12"
+  mutopiacomposer = "LoielletJB"
+  mutopiainstrument = "Orchestra: Flute, Violin. Guitar"
   
  footer = "2018/08/01"
  

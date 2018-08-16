@@ -18,9 +18,10 @@ roundF = \markup {
     \dynamic f \bold { \italic ) } } }
 
 % markings 
-allegro = \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
-andante = \markup{\hspace #-3.0 \raise #2.0 \bold \large Andante }
-allegretto = \markup {\hspace #-3.0 \raise #2.0 \bold \large Allegretto }
+%tempoMovI = \markup{\hspace #-3.0 \raise #2.0 \bold \large "Lento affettuoso" }
+%tempoMovII = \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
+%tempoMovIII = \markup {\hspace #-3.0 \raise #2.0 \bold \large "Largo sostenuto"}
+%tempoMovIV= \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
 trio= \markup {\hspace #-3.0 \raise #2.0 \bold \large Trio }
 mdc = {
   \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT

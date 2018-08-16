@@ -22,9 +22,10 @@
   } } }
   composer = \markup \center-column {\abs-fontsize #12 \thisComposer}
   opus = \markup \center-column {\abs-fontsize #12 \lower #0 \thisOpus}
-  piece = \markup { \abs-fontsize #14 \raise #1 { \hspace #20
-                                             \thisTempo  %-------------------- to be defined ahead of file insertion
-  } }
+  piece = \markup{\hspace #15.0 \raise #-5.0 \bold \large \thisTempo }
+%  copyright= "Creative Commons Attribution Share-Alike"
+%  piece = \markup { \abs-fontsize #14 \raise #1 { \hspace #20 \thisTempo  %-------------------- to be defined ahead of file insertion
+%  } }
 }
 
 \paper {

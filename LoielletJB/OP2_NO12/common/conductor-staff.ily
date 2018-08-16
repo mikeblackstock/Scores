@@ -4,7 +4,7 @@
   \keepWithTag #'printed        %----------------------------- [manual entry]
   \new StaffGroup
     <<
-
+  
           \new Staff  {
             \set Staff.instrumentName = \thisInstrNameI %----- /common/variables.ily
             \thisClefInstrI     %----------------------------- /common/variables.ily
@@ -32,7 +32,9 @@
  %       }
     >>
     \layout{ }
-
+    \header {
+      piece=   piece = \markup{\hspace #15.0 \raise #-5.0 \bold \large \thisTempo }
+    }
 }
 
 
