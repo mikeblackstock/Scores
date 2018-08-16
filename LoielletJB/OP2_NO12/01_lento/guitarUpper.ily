@@ -42,8 +42,8 @@
 	d8  d16  g,  e'  g,  d'  g,  b  g  c  g  |
 	b8 g'16  g,  g'  g,  g'  g,  g'  g,  g'  g,  |
 	<g' b, > g,  <g' b, > g,  <d' b > d,  <c' a > d,  <d' b > d,  <b' g > d,  |
-	a'8  a'16  d,  b'  d,  a'  d,  b'  d,  g  d  |
-	fis16  d  fis  d  fis  d  <g c, > g,  g'  g,  c  a  |
+	a'8  fis,16  d'  g,  d'  d,  d'  b  d'  g,  d'  |
+	r16  d  fis  d  fis  d  <g c, > g,  g'  g,  c  a  |
 	<c g >8 <b g > <g' d > <f c >4 <f d >8 | \barNumberCheck #40
 %40
     <f c g > e  <a c, > <fis! d >4 <d b >8 |
