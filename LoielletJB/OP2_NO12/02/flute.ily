@@ -18,7 +18,7 @@ showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #
 	a8  d ~  d16  d  e  fis  g  b,  cis  d  cis  b'  a  g  |
     fis8.  g32  a  g16  fis  e  d  cis8  a  r16  d  cis  d  |
     e  d  \tuplet 3/2 {cis  [d  e] } d  fis  e  fis  g  fis  \tuplet 3/2 {e  [fis  g] } fis  a  g  a  |
-    \tuplet 3/2 {b16  [(a  g)]} \tuplet 3/2  {g  (a  b) } \hideTuplets  \tuplet 3/2 {a  [(g  fis)] } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  [(fis  e)] } \tuplet 3/2 {e  (fis  g) } \tuplet 3/2 {fis [( g  a )] } \tuplet 3/2 {g  (a  fis) } |
+    \tuplet 3/2 {b16  [(a  g)]} \tuplet 3/2  {g  (a  b) }   \tuplet 3/2 {a  [(g  fis)] } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  [(fis  e)] } \tuplet 3/2 {e  (fis  g) } \tuplet 3/2 {fis [( g  a )] } \tuplet 3/2 {g  (a  fis) } |
 	\tuplet 3/2 {e  [(fis  g)] } \tuplet 3/2 {fis  (g  e) } \tuplet 3/2 {fis  [(g  a)] } \tuplet 3/2 {g  (a  fis) } e  a,  a'8 ~  a16  d,  g8 ~  | 
     \barNumberCheck #10 
 %10
