@@ -1,4 +1,5 @@
 \version "2.19"
+hideTuplets = { }
 \relative c' {
  \key g \major
  \time 4/4 
