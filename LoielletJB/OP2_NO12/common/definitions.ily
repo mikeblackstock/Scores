@@ -17,11 +17,6 @@ roundF = \markup {
     \center-align \concat { \bold { \italic ( }
     \dynamic f \bold { \italic ) } } }
 
-% markings 
-%tempoMovI = \markup{\hspace #-3.0 \raise #2.0 \bold \large "Lento affettuoso" }
-%tempoMovII = \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
-%tempoMovIII = \markup {\hspace #-3.0 \raise #2.0 \bold \large "Largo sostenuto"}
-%tempoMovIV= \markup{\hspace #-3.0 \raise #2.0 \bold \large Allegro }
 trio= \markup {\hspace #-3.0 \raise #2.0 \bold \large Trio }
 mdc = {
   \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT
@@ -46,8 +41,8 @@ mpageBreak= { }
 gbreak= { }
 %gbreak= \break
 hideTuplets = { \override TupletNumber #'stencil = ##f \override TupletBracket #'bracket-visibility = ##f}
-showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
-
+showTuplets = {\override TupletBracket #'bracket-visibility = ##t}
+%showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
 
 
 
