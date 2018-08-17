@@ -33,14 +33,14 @@ thisTempo = \thisTempoMovII  %-------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovII %----- /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
 
-
+%--------------Third Mov
 \include "../03_largo/music.ily"
 theseNotes = \guitar          %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovIII  %------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovIII %---- /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
 
-%--------------Fourth Mov: Allegro
+%--------------Fourth Mov
 \include "../04_allegro//music.ily"
 theseNotes = \guitar         %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovIV  %------------- /common/variables.ily
