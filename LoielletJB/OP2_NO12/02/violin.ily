@@ -9,7 +9,7 @@
 	r  a'16  g  a8  d  b  g  e  cis'  |
     d8  a  d  b  a  e  a,4  |
 	r  r16  d'  cis  d  e  d  \tuplet 3/2 {cis [d e] } d  fis  e fis  |
-    \tuplet 3/2 {g16  [(fis  e)] } \tuplet 3/2 {e  (fis  g) }  \tuplet 3/2 {fis  [(e  d)] } \tuplet 3/2 {d  (e  fis) } \tuplet 3/2 {e  [(d  cis)] } \tuplet 3/2 {cis  (d  e) } \tuplet 3/2 {d  [(e  fis)] } \tuplet 3/2 {e  (g  d) } |
+    \tuplet 3/2 {g16  [(fis  e)] } \tuplet 3/2 {e  (fis  g) } \hideTuplets \tuplet 3/2 {fis  [(e  d)] } \tuplet 3/2 {d  (e  fis) } \tuplet 3/2 {e  [(d  cis)] } \tuplet 3/2 {cis  (d  e) } \tuplet 3/2 {d  [(e  fis)] } \tuplet 3/2 {e  (g  d) } |
 	\tuplet 3/2 {cis  [(d  e)] } \tuplet 3/2 {d  (e  cis) } \tuplet 3/2 {d  [(e  fis)] } \tuplet 3/2 {e  (fis  d) } cis8.  cis16  d8.  d16  |
     \barNumberCheck #10
 % 10
