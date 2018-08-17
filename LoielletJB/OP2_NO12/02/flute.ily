@@ -1,10 +1,4 @@
 \version "2.19"
-%hideTuplets = {  }
-hideTuplets = { \override TupletNumber #'stencil = ##f \override TupletBracket #'bracket-visibility = ##f}
-%showTuplets = { }
-showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
-
-
 \relative c' {
  \key g \major
  \time 4/4 
