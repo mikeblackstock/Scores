@@ -18,14 +18,15 @@ thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
 
-%---------------MOVEMENTS 
+%---------------MOVEMENTS
+%---------------First Mov
 \include "../01_lento/music.ily"
 theseNotes = \flute      %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovI  %--------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
 
-
+%---------------Second Mov
 \include "../02_allegro/music.ily"
 theseNotes = \flute       %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovII  %-------------- /common/variables.ily
