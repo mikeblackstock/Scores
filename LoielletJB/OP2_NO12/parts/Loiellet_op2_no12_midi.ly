@@ -12,7 +12,6 @@
 \include "../01/music.ily"
 \book {
   \bookOutputName \thisFilenameMovI      %-------- /common/variables.ily
-  \include "../01/midi.ily"
 }
 
 
