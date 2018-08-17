@@ -40,9 +40,9 @@ mpageBreak= { }
 % guitar break
 gbreak= { }
 %gbreak= \break
-hideTuplets = { \hide TupletNumber  \hide TupletBracket }
+hideTuplets = {  }
 %hideTuplets = { \override TupletNumber #'stencil = ##f \override TupletBracket #'bracket-visibility = ##f}
-showTuplets = {\override TupletBracket #'bracket-visibility = ##t}
+showTuplets = { }
 %showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
 
 
