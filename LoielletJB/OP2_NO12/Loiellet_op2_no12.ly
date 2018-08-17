@@ -19,7 +19,7 @@ Part = " " %----------- [blank for conductor]
 
 
 %--------------- First Mov: Lento 
-
+%{
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
@@ -27,7 +27,7 @@ thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variabl
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-
+%}
 
 thisIdentifier = \thisIdentifierMovII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovII          %---------------------- /common/variables.ily [set to corresponding movement]
@@ -37,7 +37,7 @@ thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variabl
   \include "common/conductor-staff.ily"
 }
 
-
+%{
 thisIdentifier = \thisIdentifierMovIII     %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      \thisTempoMovIII          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovIII   %---------------------- /common/variables.ily [set to corresponding movement]
@@ -55,5 +55,5 @@ thisComposer= \thisComposer
 \bookpart { 
   \include "common/conductor-staff.ily"
 }
-
+%}
 
