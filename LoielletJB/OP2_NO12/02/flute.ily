@@ -1,5 +1,8 @@
+\version "2.19"
 \relative c' {
-  \partial 8
+ \key g \major
+ \time 4/4 
+ \partial 8
   \repeat volta 2 {
     r16  g''
 	g16  d  b  c  d8  e  d  g, ~  g16  fis  g  a  |
