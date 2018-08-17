@@ -5,7 +5,7 @@
     b8  g16  a  b8  c  b  b16  c  d4 ~  |
 	d8  b  g  c  a  fis'16  g  a8  fis  |
     d8  d  b  d,  g  g  fis  g  |
-	a  d,16  e  fis8.  g16 g8  d'16  c  d8  d,  \break |
+	a  d,16  e  fis8.  g16 g8  d'16  c  d8  d,  |
 	r  a'16  g  a8  d  b  g  e  cis'  |
     d8  a  d  b  a  e  a,4  |
 	r  r16  d'  cis  d  e  d  \tuplet 3/2 {cis [d e] } d  fis  e fis  |
