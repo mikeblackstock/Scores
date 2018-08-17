@@ -1,9 +1,4 @@
 \version "2.19"
-%hideTuplets = {  }
-hideTuplets = { \override TupletNumber.transparent = ##t }
-%showTuplets = { }
-showTuplets = { \override TupletNumber.transparent = ##f}
-
 
 \relative c' {
  \key g \major
