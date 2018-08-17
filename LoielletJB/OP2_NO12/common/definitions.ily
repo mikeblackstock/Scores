@@ -42,7 +42,7 @@ gbreak= { }
 %gbreak= \break
 hideTuplets = { \hide TupletNumber  \hide TupletBracket }
 %hideTuplets = { \override TupletNumber #'stencil = ##f \override TupletBracket #'bracket-visibility = ##f}
-showTuplets = {\revert TupletNumber \revert TupletBracket #'bracket-visibility = ##t}
+showTuplets = {\override TupletBracket #'bracket-visibility = ##t}
 %showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
 
 
