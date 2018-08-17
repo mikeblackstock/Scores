@@ -35,7 +35,6 @@
 %% - Formatting of titles for Cover page and TOC
 %% - all variables in this section are defined in /common/variables.ily
 coverComposer =  	\markup { \abs-fontsize #24 \thisComposer }
-%coverComposer =  	\markup { \abs-fontsize #24 "OMET" }
 coverDates =		\markup { \abs-fontsize #17 \thisDates }
 coverVolutesUp = 	\markup {\epsfile #X #80 #"./common/scroll-one-top.eps"}
 coverTitle = 		\markup { \abs-fontsize #30 \medium \smallCaps \thisWork }
@@ -46,8 +45,7 @@ coverDateCollection = 	\markup { \abs-fontsize #20 \medium \thisDateOfPublicatio
 coverVolutesDown = 	\markup {\epsfile #X #80 #"./common/scroll-one-btm.eps"}
 coverGenre = 		\markup { \abs-fontsize #28 \combinedPublicationName }
 
-%TocComposer = 	\markup { \abs-fontsize #14 \thisComposer }
-TocComposer = 	\markup { \abs-fontsize #14 "OMET" }
+TocComposer = 	\markup { \abs-fontsize #14 \thisComposer }
 TocTitle = 	\markup { \abs-fontsize #18 \medium \smallCaps \thisWork }
 TocTonality = 	\markup { \abs-fontsize #14 \medium \thisTonality }
 TocHeading = 	\markup { \abs-fontsize #22 "Table of Contents" }
