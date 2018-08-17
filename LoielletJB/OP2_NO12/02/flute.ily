@@ -1,6 +1,7 @@
 \version "2.19"
-hideTuplets = { }
-\relative c' {
+hideTuplets = {\override TupletNumber.transparent = ##t  }
+showTuplets = 
+\relative c' {\override TupletNumber.transparent = ##f  }
  \key g \major
  \time 4/4 
  \partial 8
