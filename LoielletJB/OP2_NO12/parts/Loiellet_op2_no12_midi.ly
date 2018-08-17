@@ -9,14 +9,14 @@
 \include "../common/variables.ily"
 \include "../common/definitions.ily"
 
-\include "../01_lento/music.ily"
+\include "../01/music.ily"
 \book {
   \bookOutputName \thisFilenameMovI      %-------- /common/variables.ily
-  \include "../01_lento/midi.ily"
+  \include "../01/midi.ily"
 }
 
 
-
+%{
 \include "../02_allegro/music.ily"
 \book {
   \bookOutputName \thisFilenameMovII     %-------- /common/variables.ily
@@ -35,7 +35,7 @@
   \include "../04_allegro/midi.ily"
 }
 
-
+%}
 
 
 
