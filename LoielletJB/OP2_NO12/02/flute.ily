@@ -2,7 +2,7 @@
 %hideTuplets = {  }
 hideTuplets = { \override TupletNumber.transparent = ##t }
 %showTuplets = { }
-showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
+showTuplets = { \override TupletNumber.transparent = ##f}
 
 
 \relative c' {
