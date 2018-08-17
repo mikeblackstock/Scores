@@ -41,10 +41,9 @@ mpageBreak= { }
 gbreak= { }
 %gbreak= \break
 %hideTuplets = {  }
-hideTuplets = { \override TupletNumber #'stencil = ##f \override TupletBracket #'bracket-visibility = ##f}
+hideTuplets = { \override TupletNumber.transparent = ##t }
 %showTuplets = { }
-showTuplets = { \override TupletNumber #'stencil = ##t \override TupletBracket #'bracket-visibility = ##t}
-
+showTuplets = { \override TupletNumber.transparent = ##f}
 
 
 
