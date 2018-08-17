@@ -27,16 +27,6 @@ thisBigTitle = "Trio Sonata"
 combinedPublicationName = "Full Score"
 
 %%----------------Movement-specific variables
-%thisWorkMovI = "Lento"
-%thisIdentifierMovI = "1. Lento"
-%thisTempoMovI = "Lento"
-%thisLabelMovI = #'MvmtI
-%thisComposerMovI= "J.B. Loiellet"
-%thisFilenameMovI = "Loiellet_1"
-thisNotesMovI= "01_lento/music.ily"
-thisNotesMovII= "02_allegro/music.ily"
-thisNotesMovIII= "03_largo/music.ily"
-thisNotesMovIV= "04_allegro/music.ily"
 
 thisTempoMovI = "Lento affettuoso"
 thisTempoMovII = "Allegro" 
