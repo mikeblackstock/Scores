@@ -15,26 +15,23 @@
 }
 
 
-%{
-\include "../02_allegro/music.ily"
+
+\include "../02/music.ily"
 \book {
   \bookOutputName \thisFilenameMovII     %-------- /common/variables.ily
-  \include "../02_allegro/midi.ily"
 }
 
-\include "../03_largo/music.ily"
+\include "../03/music.ily"
 \book {
   \bookOutputName \thisFilenameMovIII    %-------- /common/variables.ily
-  \include "../03_largo/midi.ily"
 }
 
-\include "../04_allegro/music.ily"
+\include "../04/music.ily"
 \book {
   \bookOutputName \thisFilenameMovIV    %-------- /common/variables.ily
-  \include "../04_allegro/midi.ily"
-}
+ }
 
-%}
+
 
 
 
