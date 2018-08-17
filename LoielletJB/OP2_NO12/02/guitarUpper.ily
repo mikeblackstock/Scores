@@ -12,7 +12,7 @@
 	<b' d, >8 \oneVoice r8  \voiceOne <a fis d >8 \oneVoice r8  \voiceOne <g cis, a >8 \oneVoice r8  \voiceOne <fis d a >8 \oneVoice r8  \voiceOne |
 	<e cis a >8 \oneVoice r8  \voiceOne <fis d >4 <e cis > <fis d > |
 %10
-    <e g, > <cis a > <d a fis >8 a  fis 
+    <e g, > <cis a > <d a fis >8 a  fis \break
   }
   \repeat volta 2 {
     \oneVoice r8  \voiceOne |
