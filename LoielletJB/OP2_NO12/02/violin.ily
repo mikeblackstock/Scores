@@ -23,8 +23,8 @@
 	g8  fis16  (e ) fis4 ~ fis8  dis  e  fis16  (g)  |
 	fis ( dis ) b  (cis)  dis8.  e16  e4  r8  a  |
     d,4  r8  e  a,  a  d4 |
-	r  r16  g,  fis  g  a ( g ) \tuplet 3/2 {fis  [g  a] } g  b  a  b  |
-    \showTuplets \tuplet 3/2 {c16  [(b  a)] } \tuplet 3/2 {a  (b  c) } \hideTuplets \tuplet 3/2 {b  [(a  g)] } \tuplet 3/2 {g  (a  b) } \tuplet 3/2 {a  [(g  fis)] } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  [(a  b)] } \tuplet 3/2 {a  (b  g) } |
+	r  r16  g,  fis  g  a ( g ) \showTuplets \tuplet 3/2 {fis  [g  a] } g  b  a  b  |
+    \tuplet 3/2 {c16  [(b  a)] } \tuplet 3/2 {a  (b  c) } \hideTuplets \tuplet 3/2 {b  [(a  g)] } \tuplet 3/2 {g  (a  b) } \tuplet 3/2 {a  [(g  fis)] } \tuplet 3/2 {fis  (g  a) } \tuplet 3/2 {g  [(a  b)] } \tuplet 3/2 {a  (b  g) } |
 	\tuplet 3/2 {fis  [(g  a)] } \tuplet 3/2 {g  (a  fis) } \tuplet 3/2 {g  [(a  b)] } \tuplet 3/2 {a  (b  g) } fis8.  fis16  g8.  g16  |
     \barNumberCheck #20
 %20
