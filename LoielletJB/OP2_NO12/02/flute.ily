@@ -35,7 +35,7 @@ showTuplets = { \override TupletNumber.transparent = ##f}
 	dis  b  e  fis  fis8. \trill  e16  e8.  fis32  g  fis16  e  d  c  |
     b8.  c32  d  c16 ( b ) a ( g ) fis8  d  r16  g  fis  g  |
 	a  g  \tuplet 3/2 {fis  [g  a] } g  b  a  b  c  b  \tuplet 3/2 {a  [b  c] } b  d  c  d  |
-    \tuplet 3/2 {e16 [( d  c )]} \tuplet 3/2 {c ( d  e )}  \tuplet 3/2 {d [( c  b )]} \tuplet 3/2 {b ( c  d )} \tuplet 3/2 {c  [(b  a)] } \tuplet 3/2 {a  (b  c) } \tuplet 3/2 {b  [(c  d)] } \tuplet 3/2 {c  (d  b) } |
+    \tuplet 3/2 {e16 [( d  c )]} \tuplet 3/2 {c ( d  e )} \hideTuplets \tuplet 3/2 {d [( c  b )]} \tuplet 3/2 {b ( c  d )} \tuplet 3/2 {c  [(b  a)] } \tuplet 3/2 {a  (b  c) } \tuplet 3/2 {b  [(c  d)] } \tuplet 3/2 {c  (d  b) } |
 	\tuplet 3/2 {a  [(b  c)] } \tuplet 3/2 {b  (c  a) } \tuplet 3/2 {b  [(c  d)] } \tuplet 3/2 {c  (d  b) } a  d,  d'8 ~  d16  g,  c8 ~  |
     \barNumberCheck #20
     %20
