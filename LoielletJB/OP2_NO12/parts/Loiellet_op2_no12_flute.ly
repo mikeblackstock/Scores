@@ -20,12 +20,13 @@ thisClef = \thisClefInstrI       %----------- [manual entry]
 
 %---------------MOVEMENTS
 %---------------First Mov
+%{
 \include "../01/music.ily"
 theseNotes = \flute      %--------------- /mov_/music.ily
 thisTempo = \thisTempoMovI  %--------------- /common/variables.ily
 thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
-
+%}
 %---------------Second Mov
 \include "../02/music.ily"
 theseNotes = \flute       %--------------- /mov_/music.ily
