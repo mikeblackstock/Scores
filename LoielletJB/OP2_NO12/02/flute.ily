@@ -1,6 +1,4 @@
 \version "2.19"
-hideTuplets = {\override TupletNumber.transparent = ##t  }
-showTuplets = {\override TupletNumber.transparent = ##f  }
 \relative c' 
  \key g \major
  \time 4/4 
