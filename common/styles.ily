@@ -13,15 +13,16 @@
 
 \include "version.ily"
 
-\header {
-  title = \markup { \abs-fontsize #20 \concat { \thisWork \hspace #1.5 \thisTonality } }
+%\header {
+%  title = \markup { \abs-fontsize #20 \concat { \thisWork \hspace #1.5 \thisTonality } }
 
-  composer = \markup \center-column {\abs-fontsize #12 \thisComposer}
-  opus = \markup \center-column {\abs-fontsize #12 \lower #0 \thisOpus}
+%  composer = \markup \center-column {\abs-fontsize #12 \thisComposer}
+%  opus = \markup \center-column {\abs-fontsize #12 \lower #0 \thisOpus}
 
-}
+%}
 
 \paper {
+  print-all-headers = ##t
   inner-margin = 12\mm             % marge intérieure
   outer-margin = 9\mm              % marge extérieure
   top-margin = 12.6\mm             % marge supérieure
