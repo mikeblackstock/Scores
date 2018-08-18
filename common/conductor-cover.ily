@@ -26,7 +26,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \paper {
-  first-page-number 0    %----------------------- Takes into account 2 cover pages
+  first-page-number .    %----------------------- Takes into account 2 cover pages
   left-margin = 12\mm
   top-margin = 12.6\mm
   bottom-margin = 8\mm
