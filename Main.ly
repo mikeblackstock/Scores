@@ -4,7 +4,7 @@
   *                                                                     *
 %}
 #(ly:set-option 'relative-includes #t)
-#(set-global-staff-size 18) 
+ 
 \version "2.19"
 \paper{
   print-all-headers = ##t
@@ -48,7 +48,7 @@ thisComposer= \thisComposer_WorkII % \thisComposerMovI
 \include "LoielletJB/OP2_NO12/01_lento/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
-
+\pageBreak
 
 %--------------- 2nd Work: Loiellet 2nd movement
 thisWork = "" %\thisWorkMovI
@@ -71,7 +71,7 @@ thisComposer= "" % \thisComposerMovI
 \include "LoielletJB/OP2_NO12/common/definitions.ily"
 \include "LoielletJB/OP2_NO12/03_largo/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
-
+\pageBreak
 
 %--------------- 2nd Work: Loiellet 4th movement
 thisWork = "" %\thisWorkMovI
