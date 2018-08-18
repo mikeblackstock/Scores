@@ -24,9 +24,9 @@ thisTempo =      \thisTempoMovI          %---------------------- /common/variabl
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 thisComposer= \thisComposerMovI
 \include \thisNotesMovI                %---------------------- [set to corresponding movement folder]
-\bookpart { 
+%\bookpart { 
   \include "common/conductor-staff.ily"
-}
+%}
 
 
 

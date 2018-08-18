@@ -18,13 +18,14 @@
 
 thisInstrName = \combinedPublicationName            %----------- /common/variables.ily
 Part = " " %----------- [blank for conductor]
-
+%{
 \bookpart { \CoverA } 
 \bookpart {
   \header { copyright = ##f }
   \paper  { two-sided = ##f print-page-number = ##f }
   \PageToc              %--------------------------------------- /common/conductor-cover.ily
 }
+%}
 
 %--------------- First Work: Boismortier
 thisWork = "Balet de Village" %\thisWorkMovI
@@ -38,6 +39,7 @@ thisComposer= \thisComposer_WorkI % \thisComposerMovI
 \include "common/conductor-staff.ily"
 }
 
+%{
 %--------------- 2nd Work: Loiellet
 thisWork = "Trio Sonata" %\thisWorkMovI
 thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -82,7 +84,7 @@ thisComposer= "" % \thisComposerMovI
 \include "LoielletJB/OP2_NO12/common/definitions.ily"
 \include "LoielletJB/OP2_NO12/04_allegro/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
-
+%}
 
 
 
