@@ -1,5 +1,5 @@
 \include "version.ily"
-%\include "styles.ily"
+\include "styles.ily"
 \score {
   \keepWithTag #'printed        %----------------------------- [manual entry]
   \new StaffGroup
