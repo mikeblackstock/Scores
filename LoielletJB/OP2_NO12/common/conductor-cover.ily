@@ -64,7 +64,6 @@ CoverA = \markup {
   \override #'(line-width . 145)
   \column {
     \fontsize #3 \bold \override #'(box-padding . 0.0)  \override #'(thickness . 4.0)
-%   \box
     \column {
       \fill-line { \lower #16 \coverComposer }
       \fill-line { \lower #8 \coverDates }
