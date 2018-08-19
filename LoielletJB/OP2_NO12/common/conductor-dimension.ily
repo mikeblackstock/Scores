@@ -13,7 +13,7 @@
 % Overall size = influences the arrangement of covers and text-based pages
 
 %#(set-global-staff-size 14)
-#(set-global-staff-size 15)
+#(set-global-staff-size 14)
 
 % Dimension of scores
 \layout {
