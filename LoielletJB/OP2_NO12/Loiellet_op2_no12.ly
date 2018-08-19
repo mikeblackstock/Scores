@@ -52,7 +52,7 @@ thisTempo =      \thisTempoMovIV          %---------------------- /common/variab
 thisTocLabel =   \label \thisLabelMovIV   %---------------------- /common/variables.ily [set to corresponding movement]
 thisComposer= \thisComposer
 \include  "04/music.ily"               %---------------------- [set to corresponding movement folder]
-\bookpart { 
+%\bookpart { 
   \include "common/conductor-staff.ily"
-}
+%}
 
