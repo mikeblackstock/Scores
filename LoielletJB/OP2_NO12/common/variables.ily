@@ -20,9 +20,9 @@ thisOpus = "Opus 2 No. 12"
 thisTonality = ""
 thisStyle = "Baroque"
 thisDates = "1680 -1730"
-thisDateOfPublication = "2018"
+thisDateOfPublication = "1725"
 thisSource = "John Walsh & Joseph Hare, n.d.(ca.1725)"
-thisBigTitle = "Trio Sonata"
+thisBigTitle = "Loiellet - Trio Sonata Opus 2 No. 12"
 
 combinedPublicationName = "Full Score"
 
