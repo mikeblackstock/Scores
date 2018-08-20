@@ -35,6 +35,7 @@
 %% - Formatting of titles for Cover page and TOC
 %% - all variables in this section are defined in /common/variables.ily
 %coverComposer =  	\markup { \abs-fontsize #24 \thisComposer }
+coverDedication = \markup { \abs-fontsize #17 \italic "for Janet" }
 coverComposer =  	\markup { \abs-fontsize #17 "Boismortier, Loiellet, Handel, Mozart" }
 coverDates =		\markup { \abs-fontsize #17 \thisDates }
 coverVolutesUp = 	\markup {\epsfile #X #80 #"./common/scroll-one-top.eps"}
@@ -69,6 +70,7 @@ CoverA = \markup {
     \fontsize #3 \bold \override #'(box-padding . 0.0)  \override #'(thickness . 4.0)
 %   \box
     \column {
+      \fill-line { \lower #16 \coverDedication }
       \fill-line { \lower #16 \coverComposer }
 %      \fill-line { \lower #8 \coverDates }
       \combine \null \vspace #2
