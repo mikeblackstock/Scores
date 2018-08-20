@@ -11,7 +11,7 @@
 \include "common/definitions.ily"
 \include "common/conductor-dimension.ily"
 \include "common/conductor-cover.ily"
-%\pointAndClickOff
+\pointAndClickOff
 thisInstrName = \combinedPublicationName            %----------- /common/variables.ily
 Part = " " %----------- [blank for conductor]
 
