@@ -48,7 +48,7 @@
 	<b' g >4 c \f |
 	<c g > <c g > |
 	<c a > \oneVoice d,8  g  \voiceOne |
-	e8 r  b'  |
+	e8 r  b'4  |
 	\break 
  
 
