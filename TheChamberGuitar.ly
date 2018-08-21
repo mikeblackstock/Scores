@@ -27,7 +27,7 @@ thisComposer= \thisComposerMovI
 %\bookpart { 
   \include "common/conductor-staff.ily"
 %}
-\pageBreak
+
 
 %--------------- Second Piece: Loiellet
 %--------------- 2nd Work: Loiellet
