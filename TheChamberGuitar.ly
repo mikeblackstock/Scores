@@ -29,7 +29,7 @@ thisComposer= \thisComposerMovI
 %}
 
 
-%--------------- Second Piece: Loiellet
+
 %--------------- 2nd Work: Loiellet
 thisWork = "Trio Sonata" %\thisWorkMovI
 thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -41,7 +41,15 @@ thisComposer= \thisComposer_WorkII % \thisComposerMovI
 \include "common/conductor-staff.ily"
 
 
-
+%--------------- 2nd Work: Loiellet 2nd movement
+thisWork = "" %\thisWorkMovI
+thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
+thisTempo =      "Allegro" % \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
+\label #'WorkII_II
+thisComposer= "" % \thisComposerMovI
+\include "LoielletJB//common/definitions.ily"
+\include "LoielletJB/Op2-No12/02/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "common/conductor-staff.ily"
 
 
 
