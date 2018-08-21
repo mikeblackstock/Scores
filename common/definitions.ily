@@ -38,7 +38,8 @@ fine = {
   \once \override Score.RehearsalMark #'extra-offset = #'( 0 . -1 )
   \mark \markup { \italic "Fine" }
 }
-
+hideTuplets = { \override TupletNumber.transparent = ##t }
+showTuplets = { \override TupletNumber.transparent = ##f}
 mbreak= { }
 %mbreak= \break
 mpageBreak= { }
