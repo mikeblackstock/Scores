@@ -51,8 +51,25 @@ thisComposer= "" % \thisComposerMovI
 \include "LoielletJB/Op2-No12/02/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
+%--------------- 2nd Work: Loiellet 3rd movement
+thisWork = "" %\thisWorkMovI
+thisIdentifier = "III" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
+thisTempo =      "Largo sostenuto" % \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
+\label #'WorkII_III
+thisComposer= "" % \thisComposerMovI
+%\include "LoielletJB/common/definitions.ily"
+\include "LoielletJB/Op2-No12/03/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "common/conductor-staff.ily"
 
-
+%--------------- 2nd Work: Loiellet 4th movement
+thisWork = "" %\thisWorkMovI
+thisIdentifier = "IV" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
+thisTempo =      "Allegro" % \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
+\label #'WorkII_IV
+thisComposer= "" % \thisComposerMovI
+%\include "LoielletJB/common/definitions.ily"
+\include "LoielletJB/Op2-No12/IV/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "common/conductor-staff.ily"
 
 
 
