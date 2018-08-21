@@ -40,7 +40,7 @@ thisComposer= \thisComposer_WorkII % \thisComposerMovI
 \include "LoielletJB/Op2-No12/01/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
-%{
+
 %--------------- 2nd Work: Loiellet 2nd movement
 thisWork = "" %\thisWorkMovI
 thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -50,7 +50,7 @@ thisComposer= "" % \thisComposerMovI
 %\include "LoielletJB/common/definitions.ily"
 \include "LoielletJB/Op2-No12/02/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
-%}
+
 
 
 
