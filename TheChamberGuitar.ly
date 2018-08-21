@@ -29,7 +29,16 @@ thisComposer= \thisComposerMovI
 %}
 \pageBreak
 
-
+%--------------- Second Piece: Loiellet
+%--------------- 2nd Work: Loiellet
+thisWork = "Trio Sonata" %\thisWorkMovI
+thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
+thisTempo =      "Lento affettuoso" % \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
+thisTocLabel =   "#'MvmtI" %\label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
+\label #'WorkII
+thisComposer= \thisComposer_WorkII % \thisComposerMovI
+\include "LoielletJB/Op2-No12/01/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "common/conductor-staff.ily"
 
 
 
