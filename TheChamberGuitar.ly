@@ -47,7 +47,7 @@ thisIdentifier = "II" %\thisIdentifierMovI     %---------------------- /common/v
 thisTempo =      "Allegro" % \thisTempoMovI          %---------------------- /common/variables.ily [set to corresponding movement]
 \label #'WorkII_II
 thisComposer= "" % \thisComposerMovI
-\include "LoielletJB/common/definitions.ily"
+%\include "LoielletJB/common/definitions.ily"
 \include "LoielletJB/Op2-No12/02/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
