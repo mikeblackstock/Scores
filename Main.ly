@@ -47,7 +47,7 @@ thisTempo =      "Lento affettuoso" % \thisTempoMovI          %-----------------
 thisTocLabel =   "#'MvmtI" %\label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 \label #'WorkII
 thisComposer= \thisComposer_WorkII % \thisComposerMovI
-\include "LoielletJB/OP2_NO12/01_lento/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "LoielletJB/Op2-No12/01/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
 \pageBreak
