@@ -68,7 +68,7 @@ thisTempo =      "Allegro" % \thisTempoMovI          %---------------------- /co
 \label #'WorkII_IV
 thisComposer= "" % \thisComposerMovI
 %\include "LoielletJB/common/definitions.ily"
-\include "LoielletJB/Op2-No12/IV/music.ily"               %---------------------- [set to corresponding movement folder]
+\include "LoielletJB/Op2-No12/04/music.ily"               %---------------------- [set to corresponding movement folder]
 \include "common/conductor-staff.ily"
 
 
