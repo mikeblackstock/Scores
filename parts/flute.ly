@@ -22,6 +22,8 @@
 \include "../common/definitions.ily"
 \include "../common/parts-dimension.ily"
 
+notes= \flute
+
 %--------Part-specific settings
 thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
