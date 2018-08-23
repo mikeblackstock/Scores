@@ -33,7 +33,7 @@ thisClef = \thisClefInstrI       %----------- [manual entry]
 \include "../BoismortierJB/Balet_de_village/01_gaiment/music.ily"
 thisWork= "Balet de Village"
 thisComposer= \thisComposer_WorkI
-theseNotes = \flute    %--------------- /mov_/music.ily
+theseNotes = \guitar    %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
