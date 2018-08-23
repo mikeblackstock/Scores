@@ -24,7 +24,7 @@
 
 %--------Part-specific settings
 thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
-Part = \thisInstrName            %------------[fixed for parts]
+Part = "Flute"          %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
 
 
@@ -84,7 +84,7 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 
 %--------Part-specific settings
 thisInstrName = \thisInstrNameII  %----------- /common/variables.ily
-Part = \thisInstrName            %------------[fixed for parts]
+%Part = \thisInstrName            %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
 
 
@@ -98,7 +98,6 @@ thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
 \pageBreak
 
-%{
 
 %---------------First Mov
 \include "../LoielletJB/Op2-No12/01/music.ily"
@@ -193,7 +192,7 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 %thisIdentifier = \thisIdentifierMovIV %---- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily"
 
-%}
+
 
 
 
