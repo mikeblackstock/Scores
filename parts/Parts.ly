@@ -1,5 +1,6 @@
+
 \version "2.18.2"
-\include "../common/version.ily"
+%\include "../common/version.ily"
 \include "../common/variables.ily"
 \include "../common/mutopia-header.ily"
 \include "../common/definitions.ily"
