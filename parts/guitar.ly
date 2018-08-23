@@ -26,7 +26,7 @@
 %--------Part-specific settings
 thisInstrName = \thisInstrNameIII  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
-thisClef = \thisClefInstrI       %----------- [manual entry]
+thisClef = \thisClefInstrIII       %----------- [manual entry]
 
 
 %---------------First Piece
