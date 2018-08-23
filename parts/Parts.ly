@@ -20,6 +20,7 @@ thisComposer= \thisComposer_WorkI
 theseNotes = \flute    %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
+\include "../common/styles.ily"
 \include "../common/parts-staff-single-instr.ily" 
 \pageBreak
 
@@ -32,10 +33,12 @@ thisClef = \thisClefInstrII       %----------- [manual entry]
 
 %---------------First Mov
 \include "../LoielletJB/Op2-No12/01/music.ily"
+
 thisWork= "Trio Sonata"
 thisComposer= \thisComposer_WorkII
 theseNotes = \violin     %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkII_MovI  %--------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
+\include "../common/styles.ily"
 \include "../common/parts-staff-single-instr.ily" 
 
