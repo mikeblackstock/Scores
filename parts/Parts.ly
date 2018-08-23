@@ -78,7 +78,7 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 
 \pageBreak
 
-%{
+
 
 
 
@@ -98,6 +98,7 @@ thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
 \pageBreak
 
+%{
 
 %---------------First Mov
 \include "../LoielletJB/Op2-No12/01/music.ily"
