@@ -21,11 +21,12 @@
 \include "../common/mutopia-header.ily"
 \include "../common/definitions.ily"
 \include "../common/parts-dimension.ily"
-notes= \flute
+
 %--------Part-specific settings
 thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
+
 
 %---------------First Piece
 \include "../BoismortierJB/Balet_de_village/01_gaiment/music.ily"
