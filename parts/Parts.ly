@@ -26,7 +26,7 @@ thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 %--------Part-specific settings
 thisInstrName = \thisInstrNameII  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
-thisClef = \thisClefInstrI       %----------- [manual entry]
+thisClef = \thisClefInstrII       %----------- [manual entry]
 
 
 %---------------First Mov
