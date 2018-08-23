@@ -78,6 +78,10 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 
 \pageBreak
 
+%{
+
+
+
 %--------Part-specific settings
 thisInstrName = \thisInstrNameII  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
@@ -188,7 +192,7 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 %thisIdentifier = \thisIdentifierMovIV %---- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily"
 
-
+%}
 
 
 
