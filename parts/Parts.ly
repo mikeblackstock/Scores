@@ -78,9 +78,8 @@ thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variabl
 
 \pageBreak
 
-
 %--------Part-specific settings
-thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
+thisInstrName = \thisInstrNameII  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
 
@@ -89,7 +88,7 @@ thisClef = \thisClefInstrI       %----------- [manual entry]
 \include "../BoismortierJB/Balet_de_village/01_gaiment/music.ily"
 thisWork= "Balet de Village"
 thisComposer= \thisComposer_WorkI
-theseNotes = \flute    %--------------- /mov_/music.ily
+theseNotes = \violin    %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
@@ -100,7 +99,7 @@ thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 \include "../LoielletJB/Op2-No12/01/music.ily"
 thisWork= "Trio Sonata"
 thisComposer= \thisComposer_WorkII
-theseNotes = \flute      %--------------- /mov_/music.ily
+theseNotes = \violin     %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkII_MovI  %--------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
@@ -109,7 +108,7 @@ thisTempo = \thisTempo_WorkII_MovI  %--------------- /common/variables.ily
 \include "../LoielletJB/Op2-No12/02/music.ily"
 thisWork= ""
 thisComposer= ""
-theseNotes = \flute       %--------------- /mov_/music.ily
+theseNotes = \violin       %--------------- /mov_/music.ily
 thisTempo =  \thisTempo_WorkII_MovII %-------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovII %----- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily"
@@ -118,7 +117,7 @@ thisTempo =  \thisTempo_WorkII_MovII %-------------- /common/variables.ily
 \include "../LoielletJB/Op2-No12/03/music.ily"
 thisWork= ""
 thisComposer=""
-theseNotes = \flute       %--------------- /mov_/music.ily
+theseNotes = \violin       %--------------- /mov_/music.ily
 thisTempo = \thisTempo_WorkII_MovIII  %------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovIII %---- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily" 
@@ -128,67 +127,12 @@ thisTempo = \thisTempo_WorkII_MovIII  %------------- /common/variables.ily
 \include "../LoielletJB/Op2-No12/04/music.ily"
 thisWork= ""
 thisComposer=""
-theseNotes = \flute       %--------------- /mov_/music.ily
+theseNotes = \violin       %--------------- /mov_/music.ily
 thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variables.ily
 %thisIdentifier = \thisIdentifierMovIV %---- /common/variables.ily
 \include "../common/parts-staff-single-instr.ily"
 
 \pageBreak
-
-
-%--------Part-specific settings
-thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
-Part = \thisInstrName            %------------[fixed for parts]
-thisClef = \thisClefInstrI       %----------- [manual entry]
-
-
-%---------------First Piece
-\include "../BoismortierJB/Balet_de_village/01_gaiment/music.ily"
-thisWork= "Balet de Village"
-thisComposer= \thisComposer_WorkI
-theseNotes = \flute    %--------------- /mov_/music.ily
-thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
-%thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
-\include "../common/parts-staff-single-instr.ily" 
-\pageBreak
-
-
-%---------------First Mov
-\include "../LoielletJB/Op2-No12/01/music.ily"
-thisWork= "Trio Sonata"
-thisComposer= \thisComposer_WorkII
-theseNotes = \flute      %--------------- /mov_/music.ily
-thisTempo = \thisTempo_WorkII_MovI  %--------------- /common/variables.ily
-%thisIdentifier = \thisIdentifierMovI %------ /common/variables.ily
-\include "../common/parts-staff-single-instr.ily" 
-
-%---------------Second Mov
-\include "../LoielletJB/Op2-No12/02/music.ily"
-thisWork= ""
-thisComposer= ""
-theseNotes = \flute       %--------------- /mov_/music.ily
-thisTempo =  \thisTempo_WorkII_MovII %-------------- /common/variables.ily
-%thisIdentifier = \thisIdentifierMovII %----- /common/variables.ily
-\include "../common/parts-staff-single-instr.ily"
-
-%--------------Third Mov
-\include "../LoielletJB/Op2-No12/03/music.ily"
-thisWork= ""
-thisComposer=""
-theseNotes = \flute       %--------------- /mov_/music.ily
-thisTempo = \thisTempo_WorkII_MovIII  %------------- /common/variables.ily
-%thisIdentifier = \thisIdentifierMovIII %---- /common/variables.ily
-\include "../common/parts-staff-single-instr.ily" 
-
-%--------------Fourth Mov
-\pageBreak
-\include "../LoielletJB/Op2-No12/04/music.ily"
-thisWork= ""
-thisComposer=""
-theseNotes = \flute       %--------------- /mov_/music.ily
-thisTempo =  "Allegro" %\thisTempo_Work_II_MovIV  %------------- /common/variables.ily
-%thisIdentifier = \thisIdentifierMovIV %---- /common/variables.ily
-\include "../common/parts-staff-single-instr.ily"
 
 
 
