@@ -24,7 +24,7 @@
 
 
 %--------Part-specific settings
-thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
+thisInstrName = \thisInstrNameII  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
 thisClef = \thisClefInstrI       %----------- [manual entry]
 
