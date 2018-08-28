@@ -15,10 +15,12 @@ Commons Public License (Attribution-ShareAlike 4.0)
 <h2>Cloning the repository</h2>
 On your system:</br>
 <code>
-git clone https://github.com/ChamberGuitarists/Scores.git
-cd Scores
-lilypond TheChamberGuitar.ly
+git clone https://github.com/ChamberGuitarists/Scores.git</br>
+cd Scores</br>
+lilypond TheChamberGuitar.ly</br>
 </code>
+</br>
+
 
 
 
