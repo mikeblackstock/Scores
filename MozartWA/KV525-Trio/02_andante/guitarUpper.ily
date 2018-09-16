@@ -38,7 +38,10 @@
     gis8 [ b8 ] e,8 -. r8 r2 | 
     s1 | 
     r8 g!8  g'8  g8 g4 r4 | 
-    s1*4 | 
+    s1 | 
+    s1 |
+    s1 |
+    s1 |
     g,2 \f b4.  \trill a16 b16  | 
     c4 r4 r2
     f4.  a8  <g e>4 <b, g>
@@ -62,7 +65,10 @@
     b16 b16 ais16 ais16 b16 b16 d8 \bar "||"
     \key c \major | 
     c8 r8 r4 |    
-    s1*4 | 
+    s1 |
+    s1 |
+    s1 |
+    s1 | 
     g2  b4. ( \trill a16 b16 ) | 
     c4 r4 s2 | 
     f4.  a8  <g e>4 <b, g>4 | 
@@ -82,7 +88,7 @@
     c4 r4 r2 |    
     g'1 ~ | 
     g1 ~ | 
-    g2. b,8  d8  | \barNumberCheck #80
+    g2. b,8  d8  |
     f2  e8  r8 r4 \bar "|."
 }
  

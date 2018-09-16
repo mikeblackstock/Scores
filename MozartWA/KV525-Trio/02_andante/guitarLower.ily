@@ -57,32 +57,22 @@
 	r4  d'8 -. fis,  g r  r4  |
 	r2  r4  c8 -. fis,  |
 	g  aes  g  f!   ees  b   c  aes   |
-	g  r  r4  g'8 -.  [b,]  c  r  |
-	 
- 
- 
-
-	g'8 -. b,  c  \noBeam r  g' -. b,  c  \noBeam r  |
+	g  r  r4  g'8 -.  [b,]  c  r  |	 
+    g'8 -. b,  c  \noBeam r  g' -. b,  c  \noBeam r  |
 	s1 |
 	g4.  a16  b \key c \major c8  s  s4  |
     \oneVoice c4 \p c  c  c  |
-
 	c  c  r  c  |
 	r  c  b  c  |
 	g'  g,  r2  |
     \voiceTwo
-
-
-
 	c4 \f c  c  c  |
 	c  c  e  e  |
-
 	f4  f  g  g,  |
 	c  s  s2  |
 	g4 \p g  g  g  |
 	g  s  s2  |
 	g4  _\markup  { \italic "cresc." } g'  g  g  |
-
 	g,4 \f s  s2  |
 	a \p d4  b  |
 	c  r  e \f d  |
