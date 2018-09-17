@@ -66,7 +66,6 @@
     d d, c' b     | 
     a d,fis a | 
     d d,  fis' g     | 
-
     <fis a>4 r4 r8 \f d8    fis8  a8 
     \repeat volta 2
     {

@@ -3,89 +3,73 @@
     \partial 2 
     r2  
     \repeat volta 2 {
-
-        g,2 r2 | % 2
-        d'2  g | % 3
-        fis g | % 4
-        d4 r4 r2 | % 5
-        g,2 r2   | % 6
-        d'2 e | % 7
+       g,2 r2 | 
+        d'2  g | 
+        fis g | 
+        d4 r4 r2 | 
+        g,2 r2   | 
+        d'2 e | 
         c2 d }
     \alternative { {
-            | % 8
             g4 g4 b,4 d4  }
         {
-            | % 9
+            | 
             g4 r g r }
         } | \barNumberCheck #10
-    g4 r g r  | % 11
+    g4 r g r  | 
 \oneVoice
-g2 ~ g8   [ a8  fis8  d8  ]   | % 12
-    b'2 ~ b8   [ c8  a8  fis8  ] | % 13
-    g4 b4   b g    ] | % 14
-    g d  d  b  ] | % 15
-    d8 [ d'8 c8 d8 ] b8 [ d8 b8 g8 ] | % 16
-    d4 d4 d4 r4 | % 17
- %   R1*2   | % 19
- %   R1*2 | % 21
+g2 ~ g8   [ a8  fis8  d8  ]   | 
+    b'2 ~ b8   [ c8  a8  fis8  ] | 
+    g4 b4   b g    ] | 
+    g d  d  b  ] | 
+    d8 [ d'8 c8 d8 ] b8 [ d8 b8 g8 ] | 
+    d4 d4 d4 r4 | 
  \voiceTwo
     s1 
     s1
     s1
     s1*3
-    
-%    d4  \override Stem.direction = #UP d,4  b4 e4 | % 24
-
 \oneVoice
-d'4  d,4  b4 e4 | % 24
-    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | % 25
-    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ]   | % 26
-    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | % 27
-    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | % 28
+    d'4  d,4  b4 e4 | 
+    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | 
+    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ]   | 
+    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | 
+    a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | 
     a,8 [ a'8 a8 a8 ] a4 r4 | % 29
-   %  \override Stem.direction = #DOWN
- \voiceTwo
-    bes2  a4  s4 | \barNumberCheck #30
-    bes2  a4  s4 | % 31
- %   R1   | % 32
- %   R1 | % 33
-    s1
-    s1
-   s1 | % 34
-    a,2  d | % 35
-    cis d| % 36
-    a4 r4 r2   | % 37
-    s1 | % 38
-    a2 b| % 39
-    g a | 
-    c2  b4  r4 | % 41
-    g2 r2 | % 42
-    a b   | % 43
-    g a | % 44
-    fis'2  e2  | % 45
-    d2 g,2 | % 46
-    a2 a2 | % 47
-%    fis'2 \f [ fis8 fis8 fis8 ] e8 [ e8 e8 e8 ] | % 48
-     fis'2 e
-%     d8 [ d8 d8 d8 ] g8 [ g8 g8 g8 ] | % 49
-    d2 g
-%    a8 [ a8 a8 a8 ] a,8 [ a8 a8 a8 ]   | \barNumberCheck #50
 
-     a a,
- s1*6
-%    d4 r4 fis,4 r4 | % 51
-%    d'4 r4 fis,4 r4 | % 52
-%    g'4 r4 g,4 r4 | % 53
-%    d'4 d4 r2 | % 54
-%    r4 d4 fis,4 a4 | % 55
-%    d4 d4 r2 | % 56
- 
+ \voiceTwo
+    bes2  a4  s4 | 
+    bes2  a4  s4 | 
+    s1
+    s1
+   s1 | 
+    a,2  d | 
+    cis d| 
+    a4 r4 r2   | 
+    s1 | 
+    a2 b| 
+    g a | 
+    c2  b4  r4 | 
+    g2 r2 | 
+    a b   | 
+    g a | 
+    fis'2  e2  | 
+    d2 g,2 | 
+    a2 a2 | 
+    fis'2 e
+    d2 g
+    a a,
+    s1
+    s1
+    s1
+    s1
+    s1
+    s1
     s1 
     \repeat volta 2 {
-        | % 57
-        s1 | % 58
-        s1| % 59
-     %   es2 r2 | \barNumberCheck #60
+    s1 | % 58
+    s1| % 59
+
          s1
         bes2 es | % 61
         d2  es | % 62
