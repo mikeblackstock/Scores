@@ -35,7 +35,7 @@ g2 ~ g8   [ a8  fis8  d8  ]   |
     a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ]   | 
     a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | 
     a,8 [ a'8 a8 a8 ] a8 [ a8 a8 a8 ] | 
-    a,8 [ a'8 a8 a8 ] a4 r4 | % 29
+    a,8 [ a'8 a8 a8 ] a4 r4 | 
 
  \voiceTwo
     bes2  a4  s4 | 
@@ -67,51 +67,50 @@ g2 ~ g8   [ a8  fis8  d8  ]   |
     s1
     s1 
     \repeat volta 2 {
-    s1 | % 58
-    s1| % 59
+    s1 | 
+    s1| 
 
          s1
-        bes2 es | % 61
-        d2  es | % 62
-        bes4 s4 s2   | % 63
-       % es2 r2 | % 64
+        bes2 es | 
+        d2  es | 
+        bes4 s4 s2   | 
+ 
         s1
-        bes2 c | % 65
-        as2 bes  | % 66
-\oneVoice
-
-        es8 \f [ bes'8 g8 bes8 ] es,8 [ bes'8 as8 bes8 ] | % 67
-        es,8 [ bes'8 g8 bes8 ] es,8 [ bes'8 as8 bes8 ]   | % 68
-        es,2 ~ es8   [ f8  d8 -. bes8 -. ] | % 69
+        bes2 c | 
+        as2 bes  | 
+        \oneVoice
+        es8 \f [ bes'8 g8 bes8 ] es,8 [ bes'8 as8 bes8 ] | 
+        es,8 [ bes'8 g8 bes8 ] es,8 [ bes'8 as8 bes8 ]   | 
+        es,2 ~ es8   [ f8  d8 -. bes8 -. ] | 
         g'2 ~ g8   [ as8  f8 -. d8 -. ] | 
-\voiceTwo        
-        es4 es4 -. s4 es4 -. | % 71
-        s4 es4 -. es4 -. es4 -. | % 72
-        s4 d4 -. s4 d4 -. | % 73
-        s4 d4 -. d4 -. d4 -. | % 74
-        s4 c4 -. s4 c4 -.   | % 75
-        s4 c4 -. c4 -. c4 -. | % 76
-        s4 fis4 -. s4 fis4 -. | % 77
-        s4 fis4 -. fis4 -. fis4 -. | % 78
-        s4 g4 -. s4 g4 -. | % 79
+        \voiceTwo        
+        es4 es4 -. s4 es4 -. | 
+        s4 es4 -. es4 -. es4 -. | 
+        s4 d4 -. s4 d4 -. | 
+        s4 d4 -. d4 -. d4 -. | 
+        s4 c4 -. s4 c4 -.   | 
+        s4 c4 -. c4 -. c4 -. | 
+        s4 fis4 -. s4 fis4 -. | 
+        s4 fis4 -. fis4 -. fis4 -. | 
+        s4 g4 -. s4 g4 -. | 
         s4 g4 -. g4 -. g4 -. | \barNumberCheck #80
- \oneVoice
- g4 es' es bes | % 81
-        bes g g es ) ]     | % 82
-        d8 [ d'8 c8 d8 ] bes8 [ d8 bes8 g8 ] | % 83
-        d4 d4 d4 r4 | % 84
+        \oneVoice
+        g4 es' es bes | 
+        bes g g es ) ]     | 
+        d8 [ d'8 c8 d8 ] bes8 [ d8 bes8 g8 ] | 
+        d4 d4 d4 r4 | 
         \voiceTwo       
-        s1*4   | % 88
+        s1*4   | 
         s1*2 
-        s1 | % 91
-        s1 | % 92
-        s1| %93
-        s1  | % 94
-        s1    | % 95
-        s1   | % 96          
+        s1 | 
+        s1 | 
+        s1| 
+        s1  | 
+        s1    | 
+        s1   |          
 
-        es2  d4  r4 | % 97
-        es2  d4  r4 | % 98
+        es2  d4  r4 | 
+        es2  d4  r4 | 
         s1*2 | \barNumberCheck #100
         g,2 r2 | % 101
         d'2 g | % 102
@@ -128,13 +127,10 @@ g2 ~ g8   [ a8  fis8  d8  ]   |
         g2 c2 | % 113
         d2 d2   | % 114
         b2 \f a | % 115
- %       g8 [ g8 g8 g8 ] c,8 [ c8 c8 c8 ] | % 116
-         g2 c2
- %       d8 [ d8 d8 d8 ] d8 [ d8 d8 d8 ] | % 117
-         d d
-         \oneVoice
+        g2 c2
+        d d
+        \oneVoice
         g4 g,4 \p b4 d4  | % 118
-         
         g4 g,4 r2 | % 119
         r4 g4 c4 e4 | \barNumberCheck #120
         g4 g,4 r2   | % 121
