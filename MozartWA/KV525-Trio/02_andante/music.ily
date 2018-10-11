@@ -17,8 +17,6 @@ global = {
 
 flute = \include "flute.ily"
 violin = \include "violin.ily"
-viola = \include "viola.ily"
-cello = \include "cello.ily"
 
 guitarUpper= \include "guitarUpper.ily"
 guitarLower= \include "guitarLower.ily"

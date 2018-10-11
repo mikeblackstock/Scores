@@ -17,22 +17,24 @@ Part = " " %----------- [blank for conductor]
 %\bookpart { \CoverA } 
 %--------------- First Piece: Boismortier
 thisWork = "Balet de Village"
-thisIdentifier = ""    %---------------------- /common/variables.ily [set to corresponding movement]
+thisIdentifier = "I"    %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      "Gaiment"          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 thisComposer= \thisComposerMovI
-\include \thisNotesMovI                %---------------------- [set to corresponding movement folder]
-\bookpart { 
+\include "01_gaiment/music.ily"               %---------------------- [set to corresponding movement folder]
+%\bookpart { 
   \include "common/conductor-staff.ily"
 
-}
+%}
+
+
 
 thisWork = ""
-thisIdentifier = ""    %---------------------- /common/variables.ily [set to corresponding movement]
+thisIdentifier = "III"    %---------------------- /common/variables.ily [set to corresponding movement]
 thisTempo =      "Vivement"          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovI   %---------------------- /common/variables.ily [set to corresponding movement]
 thisComposer= ""
-\include \thisNotesMovII                %---------------------- [set to corresponding movement folder]
+\include "03_vivement/music.ily"                %---------------------- [set to corresponding movement folder]
 \bookpart { 
   \include "common/conductor-staff.ily"
 

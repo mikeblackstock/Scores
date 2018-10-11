@@ -1,3 +1,4 @@
+
 \relative c' {
   \voiceOne
   \stemUp
@@ -14,7 +15,8 @@
   } 
   \repeat volta 2 {
     r4 |
-    r4 r4  c4 \p |
+    r4 r4  c4 \p | \barNumberCheck #10
+%10    
     b4   g4  r4 | 
     r4 r4  bes4 | 
     a8 _\markup{\italic "cresc."}  cis8  d8 e8  fis8  d8  | 
@@ -28,7 +30,8 @@
     r4 |
     d8  \p a8  d8  a8  d8 a8  |
     d8   a8  d8  a8  d8 a8  |
-    cis8   a8  cis8  a8  cis8 a8  | 
+    cis8   a8  cis8  a8  cis8 a8  | \barNumberCheck #20
+%20    
     e'8   cis8  e8  cis8 e8  cis8  | 
     d8   a8  d8  a8  d8 a8  | 
     d8   b8  d8  b8 d8  b8   | 
@@ -42,7 +45,8 @@
     e8   d8  cis8  d8  e8   dis8 | 
     d!8  cis8  b8  a8  gis8 d'8 | 
     cis4  r4 r4 | 
-    d8  \p a8  d8  a8  d8 a8  | 
+    d8  \p a8  d8  a8  d8 a8  | \barNumberCheck #30
+%30    
     d8  a8  d8  a8  d8  a8  | 
     cis8   a8  cis8  a8  cis8 a8  | 
     e'8   cis8  e8  cis8 e8  cis8  | 

@@ -18,24 +18,12 @@
             \thisClefInstrII
             \global \violin
           }
-%{
-          \new Staff  {
-            \set Staff.instrumentName = "Viola"
-            \clef alto
-            \global \viola
-          }
 
-          \new Staff  {
-            \set Staff.instrumentName = "Cello"
-            \clef bass
-            \global \cello
-          } 
-%}
           \new Staff \with {
           \override RestCollision.positioning-done = #merge-rests-on-positioning
         } 
         <<
-          \set Staff.instrumentName = "Guitar"
+          \set Staff.instrumentName = \thisInstrNameIII
           \thisClefInstrIII
           \global \guitar
         >>

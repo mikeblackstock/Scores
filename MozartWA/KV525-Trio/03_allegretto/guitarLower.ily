@@ -1,3 +1,4 @@
+
 \relative c' {
   \voiceTwo
   \stemDown
@@ -15,7 +16,7 @@
   }
   \repeat volta 2 {
     r4 |
-    r4 r4  a4 
+    r4 r4  a4 \barNumberCheck #10
 %10
     g4   e4  r4 | 
     r4 r4  g4 | 
@@ -32,7 +33,7 @@
     r4  | 
     d4 -.  d4 -. r4
     d4 -.  d4 -. r4
-    a4 -.  a4 -. r4 | 
+    a4 -.  a4 -. r4 | \barNumberCheck #20
 %20
     a4 -.  a4 -. r4 | 
     d4 -.  d4 -. r4 | 
@@ -47,7 +48,7 @@
     d4  r4 r4
     e4 r4  e,4 | 
     a4 -.  a4 -. r4 | 
-    d4 -.  d4 -. r4  | 
+    d4 -.  d4 -. r4  | \barNumberCheck #30
 %30
     d4 -.  d4 -. r4 | 
     a4 -.  a4 -. r4 | 
