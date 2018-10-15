@@ -1,5 +1,4 @@
-\version "2.19"
-\include "../common/definitions.ily"
+
 \relative g {
     \voiceOne
     \partial 2  

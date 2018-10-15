@@ -50,7 +50,7 @@ thisTocLabel =   \label \thisLabelMovIII   %---------------------- /common/varia
 \include "common/conductor-staff.ily"
 }
 
-%{
+
 
 %--------------- Fourth Mov: Allegro
 thisIdentifier = \thisIdentifierMovIV     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -62,7 +62,7 @@ thisTocLabel =   \label \thisLabelMovIV   %---------------------- /common/variab
 }
 
 
-%}
+
 
 
 

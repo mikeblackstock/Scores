@@ -24,7 +24,6 @@ thisComposer= \thisComposerMovI
 \include "01_gaiment/music.ily"               %---------------------- [set to corresponding movement folder]
 %\bookpart { 
   \include "common/conductor-staff.ily"
-
 %}
 
 
@@ -37,7 +36,6 @@ thisComposer= ""
 \include "03_vivement/music.ily"                %---------------------- [set to corresponding movement folder]
 \bookpart { 
   \include "common/conductor-staff.ily"
-
 }
 
 
