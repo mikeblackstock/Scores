@@ -48,7 +48,7 @@
  
   ragged-bottom = ##f         % empêche la justification verticale des pages sauf la dernière si mis à ##t (défaut ##f)
   ragged-last = ##f           % empêche la justification du dernier système si mis à ##t (défaut ##f)
-  ragged-last-bottom = ##t    % force la justification verticale de la dernière page si mis à ##f (défaut ##t)
+  ragged-last-bottom = ##f    % force la justification verticale de la dernière page si mis à ##f (défaut ##t)
   ragged-right = ##f          % empêche la justification à droite de la ligne si mis à ##t (défaut ##f)
   
   % détermine l’espacement entre le dernier système d’une partition et le premier système de la partition suivante,
