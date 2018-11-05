@@ -17,6 +17,9 @@ Part = " " %----------- [blank for conductor]
 
 \bookpart { \CoverA } 
 
+
+
+
 %--------------- First Piece: Boismortier
 thisWork = "Balet de Village"
 thisIdentifier = \thisIdentifierMovI     %---------------------- /common/variables.ily [set to corresponding movement]
@@ -29,6 +32,8 @@ thisComposer= \thisComposerMovI
 %}
 
 \pageBreak
+
+
 
 %--------------- 2nd Work: Loiellet
 thisWork = "Trio Sonata" %\thisWorkMovI
