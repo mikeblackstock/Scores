@@ -46,9 +46,9 @@ thisIdentifier = \thisIdentifierMovIII     %---------------------- /common/varia
 thisTempo =      \thisTempoMovIII          %---------------------- /common/variables.ily [set to corresponding movement]
 thisTocLabel =   \label \thisLabelMovIII   %---------------------- /common/variables.ily [set to corresponding movement]
 \include "03_allegretto/music.ily"                %---------------------- [set to corresponding movement folder]
-\bookpart { 
+%\bookpart { 
 \include "common/conductor-staff.ily"
-}
+%}
 
 
 
