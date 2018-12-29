@@ -43,7 +43,7 @@ thisTempo = \thisTempo_WorkI_MovI  %--------------- /common/variables.ily
 
 
 %---------------First Piece -2nd mov't
-\include "../BoismortierJBO52/Premier_Balet_de_Village/02/music.ily"
+\include "../BoismortierJB/O52/Premier_Balet_de_Village/02/music.ily"
 thisWork= ""
 thisComposer= ""
 theseNotes = \flute   %--------------- /mov_/music.ily
