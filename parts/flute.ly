@@ -12,17 +12,17 @@
   ***********************************************************************
 %}
 
-%#(set-default-paper-size "letter")
+#(set-default-paper-size "letter")
 #(ly:set-option 'relative-includes #t)
 
 \version "2.18.2"
-%\include "../common/version.ily"
+
 \include "../common/variables.ily"
 \include "../common/mutopia-header.ily"
 \include "../common/definitions.ily"
 \include "../common/parts-dimension.ily"
 %\include "../common/part-cover.ily"
-
+\pointAndClickOff
 %--------Part-specific settings
 thisInstrName = \thisInstrNameI  %----------- /common/variables.ily
 Part = \thisInstrName            %------------[fixed for parts]
