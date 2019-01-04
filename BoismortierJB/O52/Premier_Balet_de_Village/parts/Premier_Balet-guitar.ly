@@ -33,8 +33,8 @@ thisIdentifier = \thisIdentifierMovII y
 
 %--------------Third Mov
 \include "../03/music.ily"
-theseNotes = \guitar            
-thisTempo = \thisTempoMovIII  
-thisIdentifier = \thisIdentifierMovIII 
+theseNotes = \guitar            %-------------- /mov_/music.ily
+thisTempo = \thisTempoMovIII  %-------------- /common/variables.ily
+thisIdentifier = \thisIdentifierMovIII %----- /common/variables.ily
 \bookpart { \include "../common/parts-staff-single-instr.ily" }
 
