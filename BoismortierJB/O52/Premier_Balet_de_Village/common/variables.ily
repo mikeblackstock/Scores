@@ -42,9 +42,5 @@ thisMidiInstrumentIII = "acoustic guitar (nylon)"
 thisInstrShortNameIII = ""
 thisClefInstrIII = \clef "G_8"
 
-thisInstrName = "guitarUpper"
-thisInstrFile = "guitarUpper"
-thisMidiInstrumentIV = "acoustic guitar (nylon)"
-thisInstrShortNameIV = ""
-thisClefInstrIV = \clef "G_8"
+
 
