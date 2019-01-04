@@ -1,13 +1,12 @@
 %{
   *                          
-  * Generates 1st movement 
+  * Generates guitar part
   *                                                                     
 %}
 
 #(ly:set-option 'relative-includes #t)
 
 \version "2.18.2"
-%\include "../common/version.ily"
 \include "../common/variables.ily"
 \include "../common/mutopia-header.ily"
 \include "../common/definitions.ily"
