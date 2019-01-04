@@ -33,14 +33,11 @@ thisInstrShortNameI = ""
 thisClefInstrI = \clef treble
 
 thisInstrNameII = "Violin"
-thisInstrFile = "violin"
 thisMidiInstrumentII = "violin"
 thisInstrShortNameII = ""
 thisClefInstrII = \clef treble
-thisNotes = "./BoismortierJB/Op52/Premier_Balet_de_Village/01"
 
 thisInstrNameIII = "Guitar"
-thisInstrFile = "guitarLower"
 thisMidiInstrumentIII = "acoustic guitar (nylon)"
 thisInstrShortNameIII = ""
 thisClefInstrIII = \clef "G_8"
