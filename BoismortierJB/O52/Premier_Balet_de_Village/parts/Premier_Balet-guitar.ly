@@ -1,7 +1,6 @@
 %
 % guitar part
 %
-%
 
 #(ly:set-option 'relative-includes #t)
 
