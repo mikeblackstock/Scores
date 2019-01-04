@@ -1,6 +1,7 @@
-%
-% guitar part
-%
+%{
+  *                       guitar partGenerates 1st movement                                                 *
+  *                                                                     *
+%}
 
 #(ly:set-option 'relative-includes #t)
 
