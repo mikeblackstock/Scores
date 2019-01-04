@@ -11,7 +11,7 @@ thisBigTitle = "Premier Balet de Village"
 thisFilename = "Premier_Balet"
 combinedPublicationName = "Full Score"
 
-folder = "01"
+
 thisTempoMovI = "Gaiment"
 thisMetronomeBeat = "4"
 thisMetronomeSpeed = "100"
@@ -21,7 +21,7 @@ thisKey = "c \major"
 thisTime = "2/4"
 thisFilenameMovI = "Premier_Balet_01"
 
-folder = "02"
+
 thisTempoMovII = "Gracieusement"
 thisMetronomeBeat = "4"
 thisMetronomeSpeed = "50"
@@ -31,7 +31,7 @@ thisKey = "c \major"
 thisTime = "3/4"
 thisFilenameMovII = "Premier_Balet_02"
 
-folder = "03"
+
 thisTempoMovIII = "Vivement"
 thisMetronomeBeat = "4"
 thisMetronomeSpeed = "72"
