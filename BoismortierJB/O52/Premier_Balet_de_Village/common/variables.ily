@@ -13,29 +13,18 @@ combinedPublicationName = "Full Score"
 
 
 thisTempoMovI = "Gaiment"
-
-
 thisIdentifierMovI = "I"
 thisLabelMovI = "labelI"
-
 thisFilenameMovI = "Premier_Balet_01"
 
-
 thisTempoMovII = "Gracieusement"
-
-
 thisIdentifierMovII = "II"
 thisLabelMovII = "labelII"
-
-
 thisFilenameMovII = "Premier_Balet_02"
 
-
 thisTempoMovIII = "Vivement"
-
 thisIdentifierMovIII = "III"
 thisLabelMovIII = "labelIII"
-
 thisFilenameMovIII = "Premier_Balet_03"
 
 thisInstrNameI = "Flute"
