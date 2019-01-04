@@ -1,18 +1,9 @@
 %{
-  ***********************************************************************
-  * Composer - Work in Tonality                                         *
-  * typeset by                                                          *
-  *                                                                     *
-  * Parts : Violin                                                  *
-  *                                                                     *
-  * *******************************                                     *
-  * *   Main file                 *                                     *
-  * *******************************                                     *
-  *                                                                     *
-  ***********************************************************************
+  *                          
+  * Generates violin part
+  *                                                                     
 %}
 
-%#(set-default-paper-size "letter")
 #(ly:set-option 'relative-includes #t)
 
 \version "2.18.2"
