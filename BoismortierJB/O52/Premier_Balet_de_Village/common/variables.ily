@@ -13,12 +13,11 @@ combinedPublicationName = "Full Score"
 
 
 thisTempoMovI = "Gaiment"
-thisMetronomeBeat = "4"
-thisMetronomeSpeed = "100"
+
+
 thisIdentifierMovI = "I"
 thisLabelMovI = "labelI"
-thisKey = "c \major"
-thisTime = "2/4"
+
 thisFilenameMovI = "Premier_Balet_01"
 
 
