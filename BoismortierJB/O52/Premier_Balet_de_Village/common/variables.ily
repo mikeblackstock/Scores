@@ -22,22 +22,20 @@ thisFilenameMovI = "Premier_Balet_01"
 
 
 thisTempoMovII = "Gracieusement"
-thisMetronomeBeat = "4"
-thisMetronomeSpeed = "50"
+
+
 thisIdentifierMovII = "II"
 thisLabelMovII = "labelII"
-thisKey = "c \major"
-thisTime = "3/4"
+
+
 thisFilenameMovII = "Premier_Balet_02"
 
 
 thisTempoMovIII = "Vivement"
-thisMetronomeBeat = "4"
-thisMetronomeSpeed = "72"
+
 thisIdentifierMovIII = "III"
 thisLabelMovIII = "labelIII"
-thisKey = "c \major"
-thisTime = "2/4"
+
 thisFilenameMovIII = "Premier_Balet_03"
 
 thisInstrNameI = "Flute"
