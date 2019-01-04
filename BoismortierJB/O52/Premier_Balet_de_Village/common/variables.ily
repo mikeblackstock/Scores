@@ -28,11 +28,9 @@ thisLabelMovIII = "labelIII"
 thisFilenameMovIII = "Premier_Balet_03"
 
 thisInstrNameI = "Flute"
-thisInstrFile = "flute"
 thisMidiInstrumentI = "flute"
 thisInstrShortNameI = ""
 thisClefInstrI = \clef treble
-thisNotes = "./BoismortierJB/Op52/Premier_Balet_de_Village/01/flute.ily"
 
 thisInstrNameII = "Violin"
 thisInstrFile = "violin"
