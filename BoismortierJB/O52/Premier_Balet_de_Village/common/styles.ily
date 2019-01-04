@@ -28,44 +28,39 @@
 }
 
 \paper {
-  inner-margin = 12\mm             % marge int������rieure
-  outer-margin = 9\mm              % marge ext������rieure
-  top-margin = 12.6\mm             % marge sup������rieure
-  bottom-margin = 8\mm             % marge inf������rieure
-  print-page-number = ##t          % ������vite la num������rotation des premi������res pages
-  two-sided = ##t                  % active les variables pour impression recto-verso
+  inner-margin = 12\mm             
+  outer-margin = 9\mm              
+  top-margin = 12.6\mm             
+  bottom-margin = 8\mm             
+  print-page-number = ##t          
+  two-sided = ##t                  
 
   %#(define page-breaking ly:page-turn-breaking) % autorise le saut de page sur les silences
   
-  %% Default horizontal spacing (Fr: Dimensions horizontales par d������faut)
-  indent = 20\mm              % left indent for first system (Fr: retrait ������ gauche du premier syst������me (par d������faut largeur de la page/14)
-  short-indent = 0\mm         % left indent for rest of systems - change according to printer (Fr: retrait ������ gauche de tous les syst������mes)
-  horizontal-shift = 0.0      % right indent for all systems (Fr: retrait ������ droite de tous les syst������mes)
+  %% Default horizontal spacing 
+  indent = 20\mm              % left indent for first system 
+  short-indent = 0\mm         % left indent for rest of systems - change according to printer
+  horizontal-shift = 0.0      % right indent for all systems 
  
-  ragged-bottom = ##f         % emp������che la justification verticale des pages sauf la derni������re si mis ������ ##t (d������faut ##f)
-  ragged-last = ##f           % emp������che la justification du dernier syst������me si mis ������ ##t (d������faut ##f)
-  ragged-last-bottom = ##f    % force la justification verticale de la derni������re page si mis ������ ##f (d������faut ##t)
-  ragged-right = ##f          % emp������che la justification ������ droite de la ligne si mis ������ ##t (d������faut ##f)
+  ragged-bottom = ##f          
+  ragged-last = ##f           
+  ragged-last-bottom = ##f    
+  ragged-right = ##f          
   
-  % d������termine l���������espacement entre le dernier syst������me d���������une partition et le premier syst������me de la partition suivante,
-  % en l���������absence de titrage ou markup qui les s������pare.
-  score-system-spacing = #'((basic-distance . 14) (minimum-distance . 8) (padding . 1) (stretchability . 80)) % 120 par d������faut
+  
+  score-system-spacing = #'((basic-distance . 14) (minimum-distance . 8) (padding . 1) (stretchability . 80)) 
 
-  % d������termine l���������espacement entre un titre ou un markup de premier niveau, et le syst������me qui le suit.
-  markup-system-spacing = #'((basic-distance . 8) (padding . 1.5) (stretchability . 15))	% 30 par d������faut
+  
+  markup-system-spacing = #'((basic-distance . 8) (padding . 1.5) (stretchability . 15))	
 
-  % d������termine l���������espacement entre le dernier syst������me et le titre ou markup de haut niveau qui le suit.
-  score-markup-spacing = #'((basic-distance . 12) (padding . 0.5) (stretchability . 40))	% 60 par d������faut
+ 
+  score-markup-spacing = #'((basic-distance . 12) (padding . 0.5) (stretchability . 40))	
 
-  % d������termine l���������espacement entre deux titres ou markups de premier niveau.
+  
   markup-markup-spacing = #'((basic-distance . 1) (padding . 0.5))
 
-  % d������termine l���������espace entre le haut de la surface imprimable et le milieu du premier syst������me en l���������absence de titre
-  % ou markup de premier niveau en haut de page.
   top-system-spacing = #'((basic-distance . 1) (minimum-distance . 0) (padding . 1))
 
-  % d������termine l���������espace entre le haut de la surface imprimable et le premier titre ou markup de premier niveau
-  % en l���������absence de syst������me en haut de page.
   top-markup-spacing = #'((basic-distance . 0) (minimum-distance . 0) (padding . 1))
   
   %% Vertical spacing (Dimensions verticales)

@@ -1,7 +1,7 @@
 \relative c{
 	\voiceOne
     <c' g e >2 <b g >4 |
-	<c g e>2 <c d, >4 |
+	<c g e>2 d4 |
 	<c g > <d f, > <c e, > |
 	<b d, > <b d, >2 |
 	<c g >4 <c a > <d a > |

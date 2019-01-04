@@ -2,8 +2,8 @@
 	\voiceTwo
 
 	c2  g4  | 
-	c2  f,4  |
-	e  b'  c  |
+	c2  f4  |
+	e  b  c  |
 	g  g  f'  |
 	e  f  d  |
 	
