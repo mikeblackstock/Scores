@@ -25,7 +25,7 @@ and the Lilypond 'compiler' turns this <i>source code</i> into a finished music 
 <br/>
 <br/>
 <center>
-<img src="snippet.png">
+<img src="common/snippet.png">
 </center>
 </p>
 <p>
