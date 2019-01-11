@@ -1,6 +1,6 @@
 \score {
      \keepWithTag #'played                         %------------------------------- [manual entry]
-     \unfoldRepeats
+      \unfoldRepeats
       <<
       \new Staff {
               \set Staff.midiInstrument = "flute" %------------------------------- [manual entry]
@@ -24,7 +24,7 @@
  
     >>
     \midi {
-      \tempo 8 = 140                               %------------------------------- [manual entry]
+      \tempo 4 = 78                              %------------------------------- [manual entry]
     }
 }
 
