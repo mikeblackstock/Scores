@@ -1,6 +1,6 @@
 \relative c'{
   \repeat volta 2 { 
-    d'8. \trill c32  d  e8  |
+  	d'8. \trill c32  d  e8  |
 	c4 \trill b8  |
 	R4.  |
 	R  |
