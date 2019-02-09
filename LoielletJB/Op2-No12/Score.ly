@@ -1,19 +1,7 @@
 %{
-  ***********************************************************************
-  * Composer - Work in Tonality                                         *
-  * typeset by                                                          *
+  *                                                    *
+  * Loeillet - Generates full score                                                 *
   *                                                                     *
-  * Conductor's score                                                   *
-  *                                                                     *
-  * *******************************                                     *
-  * *   Main file                 *                                     *
-  * *******************************                                     *
-  *                                                                     *
-  * SETUP: Copy movement block for each movement.                       *
-  *        Adjust movement-specific variables                           *
-  *        and music folder accordingly.                                *
-  *                                                                     *
-  ***********************************************************************
 %}
 
 %#(set-default-paper-size "letter")

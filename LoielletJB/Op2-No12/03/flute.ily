@@ -9,7 +9,7 @@
 	c ( b  c  d ) c ( e  a  e ) c ( e  d  c ) |
 	b ( a  b  c ) b ( a  b  c ) d ( c  d  e ) | \barNumberCheck #10
 %10
-    	f2  f  f  |
+	f2  f  f  |
 	e8 ( d  e  g ) e (  c  g  c ) e ( d  e  fis ) |
 	g2  g g |
 	fis8 (e  fis  a ) fis ( d  a  d ) fis ( e  fis  g ) |
@@ -21,7 +21,7 @@
 	e8 (  b   g  e ) e' ( b  g  e ) e' ( d  c   b ) |
 	\barNumberCheck #20
 %20
-    	c1  cis2  |
+	c1  cis2  |
 	d8 ( a  fis  d ) d' ( a  fis  d ) d' ( c  b  a ) |
 	b1  b2  |
 	g8 ( fis  g  a ) g ( fis  g  a ) g ( fis  g  a ) |

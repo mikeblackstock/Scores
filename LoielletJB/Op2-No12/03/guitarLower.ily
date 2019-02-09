@@ -1,6 +1,6 @@
 \relative c {
     \voiceTwo
-    	e,2  g  e  |
+	e,2  g  e  |
 	b'  dis  b  |
 	e,  g  e  |
 	d'2  d  d  |
@@ -10,7 +10,7 @@
 	a  s  c  |
 	e,  s  b'  | \barNumberCheck #10
 %10
-    	g'8  d  b  g  g'  d  b  g  g'  d  b  g  |
+	g'8  d  b  g  g'  d  b  g  g'  d  b  g  |
 	c2  s  c  |
 	a'8  e  cis  a  a'  e  cis  a  a'  e  cis  a  |
 	d2 s  d  |
@@ -21,7 +21,7 @@
 	g  a  b2  b  |
 	e,1  e2  | \barNumberCheck #20
 %20
-    	a1  a2  |
+	a1  a2  |
 	d1  d2  |
 	g,1  g2  |
 	c1  a2  |

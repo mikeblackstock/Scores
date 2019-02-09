@@ -11,7 +11,7 @@
 	d4  g8  fis4  e8  |
 	d4  b'8  a4  a,8  | \barNumberCheck #10
 %10
-    	d4  fis8  a4  a,8  |
+    d4  fis8  a4  a,8  |
 	d4  e8  fis  d4  |
 	d8  e  fis  g4  gis8  |
 	a  cis,  d  a4  d8  |
@@ -24,7 +24,7 @@
 \repeat volta 2 {
 	d4.  d4  g8  | \barNumberCheck #20
 %20
-    	d  d  e  fis16  e  fis8  d  |
+    d  d  e  fis16  e  fis8  d  |
 	g,4.  g4  c8  |
 	g4  g8  a4  b8  |
 	c4  a8  b4  cis8  |
@@ -35,7 +35,7 @@
 	g4  e8  a4  a8  |
 	e4  e8  a  b  b  | \barNumberCheck #30
 %30
-    	e,4  e8  a  b  b  |
+   	e,4  e8  a  b  b  |
 	e,4  e'8  d  e  c  |
 	b4  c8  b  a  d  |
 	g,  g'  g  fis  g  e  |
@@ -46,30 +46,7 @@
 	d4  d8  e4  fis8  |
 	g,4  g8  a4  b8  | \barNumberCheck #40
 %40
-    	c4  a8  d  fis  g  |
+    c4  a8  d  fis  g  |
 	c,  d  d  g,4.  |
   }
 }  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

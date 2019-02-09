@@ -49,26 +49,3 @@
        piece = \markup{\hspace #15.0 \raise #-5.0 \bold \large \thisTempo }   
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 %{
   *                                                    *
-  * Generates full score                                                 *
+  * Mozart - Generates full score                                                 *
   *                                                                     *
 %}
 #(ly:set-option 'relative-includes #t)
@@ -60,28 +60,3 @@ thisTocLabel =   \label \thisLabelMovIV   %---------------------- /common/variab
 \bookpart { 
 \include "common/conductor-staff.ily"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

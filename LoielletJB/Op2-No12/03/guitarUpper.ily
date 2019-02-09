@@ -10,7 +10,7 @@
 	<c a e > \oneVoice r  \voiceOne <a e > |
 	<g e b > \oneVoice r  \voiceOne <g d > | \barNumberCheck #10
 %10
-    	d2  b  d  |
+	d2  b  d  |
 	<e c g > \oneVoice r \voiceOne <e c g > |
 	e  cis  e  |\oneVoice
 	<fis d a >2 \oneVoice r \voiceOne  <fis d a > |
@@ -21,7 +21,7 @@
 	<e b > <fis c > <dis b >2 a  |
 	<e' b g >  <g e b > <gis e d > | \barNumberCheck #20
 %20
-    	<a e c >2 <c a e > <cis g e > |
+	<a e c >2 <c a e > <cis g e > |
 	<d fis, d > <fis, d a > <a fis c > |
 	<g d b > <g d b > <dis b > |
 	<e b g > <a e c > <c e, c > |
