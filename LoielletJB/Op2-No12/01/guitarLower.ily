@@ -12,7 +12,7 @@
 	d4  b'8  a4  a,8  | \barNumberCheck #10
 %10
     d4  fis8  a4  a,8  |
-	d4  e8  fis  d4  |
+    d4  e8  fis  d4  |
 	d8  e  fis  g4  gis8  |
 	a  cis,  d  a4  d8  |
 	a8  cis'  d  a4  d,8  |
